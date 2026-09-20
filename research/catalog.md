@@ -32,6 +32,12 @@ Status: `listed` (URL only) | `on-disk` | `blocked`.
 | dot-home | DOT | Tourism | https://beta.tourism.gov.ph | listed |
 | dilg-home | DILG | LGUs | https://www.dilg.gov.ph | listed |
 
+## Interviews (on disk)
+
+| ID | Publisher | What | URL | On disk |
+|----|-----------|------|-----|---------|
+| transcript-breaking-ground-glacier | operator transcript | Food prices / cold chain interview | local txt | `research/library/2026-09-20-food-prices-cold-chain-transcript.md` |
+
 ## Books (on disk)
 
 | ID | Publisher | What | URL | On disk |
