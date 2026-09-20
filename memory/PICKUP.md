@@ -10,7 +10,7 @@ Walk 3 candidate bays in the Cebu IT Park / JY Square corridor and fill `project
 
 ## Useful paths
 - Router: `CLAUDE.md`
-- Live site: https://juniorduc44.github.io/philippineResearchHub/ (`docs/` on GitHub Pages)
+- Live site: https://juniorduc44.github.io/philippineResearchHub/
 - Handoff README: `projects/helmet-vending/README.md`
 - Active project: `projects/helmet-vending/INDEX.md`
 - MVP: `projects/helmet-vending/lean/mvp-experiment.md`
