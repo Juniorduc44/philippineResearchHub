@@ -20,11 +20,16 @@
 
     <main class="wrap">
       <article>
-        <div class="detail-hero">
-          <img
-            src="../images/helmet-vending-hero.jpg"
-            alt="Rider placing a helmet into a sanitizing kiosk beside parked motorcycles"
-          />
+        <div class="detail-hero" data-slides>
+          <div class="slides">
+            <img class="is-on" src="../images/helmet-vending_00.png" alt="Rider scanning a QR code at a helmet kiosk" />
+            <img src="../images/helmet-vending_01.png" alt="Rider placing a helmet into the open front chamber" />
+            <img src="../images/helmet-vending_02.png" alt="Close view of a helmet entering the front of the cabinet" />
+            <img src="../images/helmet-vending_03.png" alt="Row of helmet kiosks at a motorcycle parking bay" />
+          </div>
+          <button type="button" class="slide-nav prev" aria-label="Previous photo">‹</button>
+          <button type="button" class="slide-nav next" aria-label="Next photo">›</button>
+          <div class="slide-dots"></div>
           <h1>Helmet sanitizing vendo</h1>
         </div>
 
@@ -88,5 +93,6 @@
       <a class="back" href="../index.html">← Back to gallery</a>
     </footer>
     <script src="../js/theme.js"></script>
+    <script src="../js/slides.js"></script>
   </body>
 </html>

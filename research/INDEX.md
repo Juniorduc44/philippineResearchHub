@@ -25,3 +25,5 @@ What is actually on disk. Catalog URLs that have not been fetched do not belong 
 | 2026-09-20 | ra-11647 | statute | `research/library/2026-09-20-ra-11647.md` | ra-11647 |
 | 2026-09-20 | sec-blocked | blocked | `research/library/2026-09-20-sec-blocked.md` | sec-primary-registration |
 | 2026-09-20 | foreign-investment-and-retail | brief | `research/briefs/2026-09-20-foreign-investment-and-retail.md` | — |
+| 2026-09-20 | food-prices-cold-chain-transcript | transcript | `research/library/2026-09-20-food-prices-cold-chain-transcript.md` | transcript-breaking-ground-glacier |
+| 2026-09-20 | produce-cooling-from-transcript | brief | `research/briefs/2026-09-20-produce-cooling-from-transcript.md` | — |

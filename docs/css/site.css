@@ -113,19 +113,84 @@ img {
   border-color: var(--accent);
 }
 
-.hero {
+.hero,
+.detail-hero {
   position: relative;
   border-radius: var(--radius);
   overflow: hidden;
-  min-height: min(72vh, 640px);
   box-shadow: var(--shadow);
 }
 
-.hero img {
+.hero {
+  min-height: min(72vh, 640px);
+}
+
+.slides {
+  position: relative;
+  background: #1a1712;
+}
+
+.slides img {
   width: 100%;
   height: min(72vh, 640px);
   object-fit: cover;
-  object-position: 40% 50%;
+  object-position: 50% 50%;
+  display: none;
+}
+
+.detail-hero .slides img {
+  height: min(52vh, 460px);
+}
+
+.slides img.is-on {
+  display: block;
+}
+
+.slide-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  border: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 999px;
+  background: rgba(20, 16, 10, 0.45);
+  color: #f8f3ea;
+  cursor: pointer;
+  font: inherit;
+  font-size: 1.2rem;
+}
+
+.slide-nav.prev {
+  left: 0.7rem;
+}
+
+.slide-nav.next {
+  right: 0.7rem;
+}
+
+.slide-dots {
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 2;
+  display: flex;
+  gap: 0.35rem;
+}
+
+.slide-dots button {
+  width: 0.55rem;
+  height: 0.55rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(248, 243, 234, 0.45);
+  cursor: pointer;
+}
+
+.slide-dots button.is-on {
+  background: #f8f3ea;
 }
 
 .hero-copy {
@@ -236,17 +301,7 @@ img {
 }
 
 .detail-hero {
-  position: relative;
-  border-radius: var(--radius);
-  overflow: hidden;
   margin-bottom: 1.6rem;
-  box-shadow: var(--shadow);
-}
-
-.detail-hero img {
-  width: 100%;
-  height: min(52vh, 460px);
-  object-fit: cover;
 }
 
 .detail-hero h1 {
@@ -308,13 +363,12 @@ img {
     grid-template-columns: 1fr;
   }
 
-  .hero img,
-  .hero {
+  .hero,
+  .hero .slides img {
     min-height: 52vh;
-    height: auto;
   }
 
-  .hero img {
+  .hero .slides img {
     height: 52vh;
   }
 }

@@ -19,19 +19,24 @@
 
     <main>
       <section class="wrap">
-        <a class="hero" href="ideas/helmet-vending.html">
-          <img
-            src="images/helmet-vending-hero.jpg"
-            alt="A rider placing a motorcycle helmet into a slim sanitizing kiosk at a Cebu motorcycle parking bay"
-          />
-          <div class="hero-copy">
+        <div class="hero" data-slides>
+          <div class="slides">
+            <img class="is-on" src="images/helmet-vending_00.png" alt="Rider scanning a QR code at a helmet kiosk in a motorcycle parking lot" />
+            <img src="images/helmet-vending_01.png" alt="Rider placing a helmet into the open front chamber of the kiosk" />
+            <img src="images/helmet-vending_02.png" alt="Close view of a helmet going into the front of the sanitizing cabinet" />
+            <img src="images/helmet-vending_03.png" alt="Row of helmet kiosks at a tropical motorcycle parking bay" />
+          </div>
+          <button type="button" class="slide-nav prev" aria-label="Previous photo">‹</button>
+          <button type="button" class="slide-nav next" aria-label="Next photo">›</button>
+          <div class="slide-dots"></div>
+          <a class="hero-copy" href="ideas/helmet-vending.html">
             <p class="kicker">Active idea · Cebu City</p>
             <h1>Helmet sanitizing vendo</h1>
             <p class="lede">
               A self-service kiosk on the IT Park / JY Square corridor. Riders pay, leave the helmet, get it back in minutes.
             </p>
-          </div>
-        </a>
+          </a>
+        </div>
       </section>
 
       <section class="wrap section" id="gallery">
@@ -39,7 +44,7 @@
         <p class="hint">Click a photo to open the dossier. Back on each idea returns here.</p>
         <div class="gallery">
           <a class="card" href="ideas/helmet-vending.html">
-            <img src="images/helmet-vending-card.jpg" alt="Helmet sanitizing kiosk in a Cebu motorcycle lot" />
+            <img src="images/helmet-vending_01.png" alt="Helmet going into the open front of a sanitizing kiosk" />
             <div class="card-body">
               <p class="meta">Services · draft<span class="badge">Active</span></p>
               <h3>Helmet sanitizing vendo</h3>
@@ -49,9 +54,9 @@
           <a class="card" href="ideas/community-cold-storage.html">
             <img src="images/community-cold-storage.jpg" alt="Small wet-market cold room with crates of produce" />
             <div class="card-body">
-              <p class="meta">Agri · example<span class="badge">Specimen</span></p>
+              <p class="meta">Agri · draft<span class="badge">Sourced problem</span></p>
               <h3>Community cold storage</h3>
-              <p>Shared cold room for smallholder produce. Format example only.</p>
+              <p>Farm-adjacent cooling so harvest is not dumped at the bagsakan.</p>
             </div>
           </a>
         </div>
@@ -62,5 +67,6 @@
       Local-first research workspace. Figures in idea pages are labeled when they are still operator notes, not invoices.
     </footer>
     <script src="js/theme.js"></script>
+    <script src="js/slides.js"></script>
   </body>
 </html>
