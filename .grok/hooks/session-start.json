@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "test -f CLAUDE.md && echo 'OS: CLAUDE.md routing table. Pickup: memory/PICKUP.md. Local-first: research/INDEX.md before the web.' || echo 'ERROR: CLAUDE.md missing from cwd'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

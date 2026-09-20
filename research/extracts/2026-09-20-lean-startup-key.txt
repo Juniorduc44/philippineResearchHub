@@ -1,0 +1,883 @@
+
+===== PDF PAGE 5 =====
+Tartalom
+
+ELŐSZÓ A MAGYAR KIADÁSHOZ
+
+BEVEZETÉS
+
+KEZDET
+
+MEGHATÁROZÁS
+
+TAPASZTALATSZERZÉS
+
+KISERLETEZES
+MÁSODIK RÉSZ — KORMANYZAS
+
+VIZIOTOL A KORMANYZASIG
+
+KIUGRAS
+
+TESZTELES
+
+FENY
+
+IRÁNYVÁLTÁS (VAGY KITARTÁS)
+HARMADIK RÉSZ - GYORSÍTÁS
+
+INDÍTSUK BE A MOTORT!
+
+TETELEK
+
+ADAPTACIO
+
+INNOVACIO
+
+UTOSZO: NE PAZAROLJUNK!
+
+CSATLAKOZZUNK A MOZGALOMHOZ!
+
+KOSZONETNYILVANITAS
+
+ASZERZOROL
+
+FORRASOK
+
+===== PDF PAGE 25 =====
+az innovatív új termékek fejlesztésének új módszere, amely a rövid
+ciklusidőt, az ügyfelek ismeretét, a kolosszális ötletet és az óriási ambíciókat
+hangsúlyozza — persze mindezt egyszerre.
+
+Henry Ford minden idők legsikeresebb es legnépszerűbb innovatív
+vállalkozója volt. Mivel a menedzsment története a kezdetektől fogva
+összefonódott az automobillal, úgy gondolom, az automobil a startup találó
+metaforája.
+
+A belső égésű motorral hajtott automobilt két fontos és egymástól nagyon
+eltérő visszajelzési kör működteti. Az első a motor mélyén rejtőzik. Mielőtt
+híres vezérigazgatóvá vált volna, Henry Ford mérnökként dolgozott. Éjjel-
+nappal a garázsában bütykölt, hogy kialakítsa a motorhengerek mozgásához
+szükséges precíz mechanikát. A hengeren belül történő apró robbanások
+egyrészt a kerekek mozgatásához szükséges energiát biztosítják, másrészt a
+következő robbanáshoz szolgáltatják a gyújtást. Ha a visszajelzési kör
+időzítése nem tökéletes, a motor köhögni kezd, majd leáll.
+
+A startupok hajtóereje is hasonló: én úgy nevezem, hogy a növekedés
+motorja. A startupok piacai és vevői sokfélék lehetnek. Lehet, hogy egy
+játékforgalmazó, egy tanácsadó és egy termelőüzem látszólag nem sok közös
+vonással rendelkezik, de amint látni fogjuk, növekedésük motorja ugyanaz.
+Minden új termékverzió, funkció és marketingprogram kísérlet a növekedés
+motorjának fejlesztésére. Miként Henry Ford garázsban végzett
+próbálkozásai, ezek a változtatások sem mindig bizonyulnak sikeresnek. Az
+új termékek fejlesztése rohamokban történik. A startup életének nagy része a
+motor tuningolásával — a termék, a marketing vagy az üzemeltetés
+fejlesztésével — telik.
+
+Az automobil esetében a másik fontos visszajelzési kör a sofőr és a
+kormánykerék . közötti kapcsolat. Ez olyan gyors és automatikus
+visszacsatolás, hogy gyakran nem is gondolunk rá, pedig a kormányzás
+különbözteti meg az autót a legtöbb egyéb közlekedési eszköztől. Ha
+naponta ingázunk, valószínűleg olyan jól ismerjük az utat, hogy a kezünk
+szinte magától kormányoz. Szinte álmunkban is el tudnánk vezetni az autót.
+De ha azt mondanák, hogy csukjuk be a szemünket, és mondjuk el pontosan,
+hogy jutunk el a munkahelyre — ne az utcaneveket, hanem a kormánykerék
+mozgatását és a pedálok kezelését —, akkor biztosan nem tudnánk elmondani.
+A vezetés koreográfiája valójában bámulatosan bonyolult. Ezzel szemben az
+
+===== PDF PAGE 53 =====
+Ez a startup igazi termelékenysége: amikor szisztematikusan kinyomozzuk,
+mit kell gyártanunk.
+
+Ez csak néhány példa volt arra a több száz kísérletre, amelyeket hétről hétre
+lefolytattunk, miközben kezdtünk rájönni, kik használnák a termékünket és
+miért. Minden felcsipegetett tudásmorzsa újabb kísérletre ösztönzött minket,
+így mutatóink apránként közelítettek a célhoz.
+
+A nulla varázsa
+
+Az IMVU kezdeti sikerei ellenére még mindig meglehetősen szerény volt a
+forgalmunk. Sajnos a cégek hagyományos értékelési módszere miatt ez
+veszélyes helyzet. Az a vicc, hogy könnyebb addig tőkéhez és egyéb
+erőforrásokhoz jutni, amíg nulla árbevétellel, forgalommal és lendülettel
+rendelkezünk, mint ha csak egy kicsivel. A nulla megmozgatja a fantáziát,
+míg a kis számok kétségeket keltenek azzal kapcsolatban, hogy lesznek-e
+valaha nagyobbak. Mindenki ismer (vagy legalábbis azt hiszi, hogy ismer)
+olyan termékeket, amelyek egyik napról a másikra bombasikert arattak.
+Amíg a terméket nem dobták piacra és nem állnak rendelkezésre adatok,
+addig bele lehet látni ezt a bombasikert. A kis számok azonban visszarántják
+az álmodozót a valóság talajára.
+
+Ez a jelenség súlyos következményekkel jár: az ember mindaddig halogatja
+az adatok begyűjtését, amíg nem biztos a sikerben. Természetesen miként
+látni fogjuk — az ilyen késlekedés azzal a szerencsétlen hatással jár, hogy
+növekszik a veszteséges munka aránya, csökken a szükséges visszajelzés, és
+drámai mértékben növekszik annak kockázata, hogy a startup olyat készít,
+ami a kutyának sem kell.
+
+Mindenesetre az sem jó terv, ha piacra dobjuk a terméket és reméljük a
+legjobbakat, mivel valós elvárásokról van szó. Az IMVU indulásakor nem
+vettünk erről tudomást. A legelső befektetőink és tanácsadóink viccesnek
+találták, hogy kezdetben havi 300 dolláros árbevételt terveztünk. De miután
+még hónapok múlva is csak havi 500 dollár körül mozgott a bevételünk,
+némelyik befektetőnk hite megrendült — csakúgy, mint néhány tanácsadónké,
+alkalmazottunké, sőt házastársunké. Gyakorlatilag egy ponton néhány
+befektető komolyan azt javasolta, hogy vonjuk vissza a terméket a piacról,
+és térjünk vissza a csendes fejlesztéshez. Szerencsére, miután irányt
+változtattunk és kísérletezni kezdtünk, majd a tanulságokat beépítettük a
+termékfejlesztési és marketing-erőfeszítéseinkbe, a számok is javulni
+kezdtek.
+
+===== PDF PAGE 54 =====
+De nem sokkal! Egyrészt őrültünk, hogy az árbevétel meredeken ívelt
+felfelé, másrészt viszont ez még mindig csak havi néhány ezer dolláros
+növekedést jelentett. Ezek a kezdeti grafikonok — bár ígéretesek voltak —
+önmagukban véve nem bizonyultak elegendőnek ahhoz, hogy ellensúlyozzák
+korai kudarcaink okozta hitelvesztésünket. Ráadásul nem ismertük az igazolt
+tapasztalat fogalmát, így nem tudtunk alternatívát kínálni a mutatókon kívül.
+Elég szerencsések voltunk, amiért néhány korai befektetőnk megértette
+ennek a fontosságát, és hajlandó volt a csekély forgalmunktól eltekintve a
+valódi fejlődést meglátni. (Lásd a 7. fejezetet!)
+
+A nulla varázsa miatt keletkező veszteséget tehát az igazolt tapasztalattal
+mérsékelhetjük. Azt kellett bizonyítanunk, hogy  termékfejlesztési
+törekvéseink bombasikerhez vezetnek, miközben ellenállunk a kísértésnek,
+hogy a mutatókkal kérkedjünk és sikeresnek próbáljunk látszani.
+Folyamodhattunk volna  marketingtrükkökhöz,  beruházhattunk volna
+reklámra a Super Bowl alatt, vagy folytathattunk volna hivalkodó PR-
+kampányt, hogy úgy tűnjék, nagyon jól megy nekünk. Ez lenyűgözte volna a
+befektetőket, de csak egy rövid időre. Végül lecsengett volna a PR-kampány
+hatása, mi pedig komoly csávába kerültünk volna, mivel fejlődés helyett
+színjátékra pazaroltuk értékes erőforrásainkat.
+
+60 millió avatarral később az IMVU még mindig gőzerővel tör előre.
+Nemcsak nagyszerű terméket, csodálatos csapatot és ígéretes pénzügyi
+eredményeket tud felmutatni, hanem egy gyökeresen új módszert is a
+startupok előrehaladásának mérésére.
+
+Tanulságok az IMVU-n túl
+
+Számos lehetőségem nyílt arra, hogy megosszam az IMVU történetének
+tanulságait, amióta a Stanford Üzleti Iskolája hivatalos tanulmányt írt a cég
+első éveiről.? Az eset mostanra a vállalkozói tananyag részét képezi számos
+üzleti . iskolában, például a Harvard Üzleti Iskolájában, ahol
+vállalkozóoktatóként tevékenykedek. Ezenkívül számtalan workshopon,
+előadáson és konferencián meséltem el a sztorit.
+
+Amikor bemutatom az esetet, tanítványaim kivétel nélkül ellenállhatatlan
+késztetést éreznek arra, hogy a taktikára koncentráljanak, amit sugall: rossz
+minőségű, korai prototípus piacra dobása, az első naptól kezdve fizetős
+szolgáltatás nyújtása az ügyfeleknek és szerény forgalmi célok kitűzése,
+hogy ne keltsünk csalódást. Ezek hasznos technikák, mégsem ez a történet
+tanulsága. Hiszen túl sok a kivétel, például nem minden ügyfél éri be rossz
+
+===== PDF PAGE 57 =====
+A Zappos egyszerű kis terméknek indult. Elsősorban azért hozták létre, hogy
+választ adjon erre az egy kérdésre: van-e már elegendő kereslet webes
+cipővásárlásra? Mindenesetre egy olyan jól megtervezett startup kísérlet,
+mint amibe a Zappos kezdett, az üzleti tervnek nem csupán egyetlen
+szempontját teszteli. Az első előfeltevés vizsgálata során több másikat is
+górcső alá vesz. A cipőárusításhoz a Zapposnak kapcsolatba kellett lépnie a
+vásárlókkal: lebonyolítani a fizetést, kezelni a visszárut és a vevőszolgálati
+ügyeket. Ez jelentősen különbözik a piackutatástól. Ha a Zappos a meglevő
+piackutatási eredményekre hagyatkozott volna, vagy maga végez felmérést,
+annyit tudott volna meg, hogy a vevők mit gondolnak: mire van szükségük.
+Minthogy azonban piacra dobott egy terméket — még ha egyszerűt is —,
+sokkal több információhoz jutott:
+
+1. Pontosabb adatokat szerzett a vevőigényekről, mivel a vevők valós
+viselkedését figyelte meg, nem pedig hipotetikus kérdéseket tett fel.
+
+2. Olyan helyzetbe jutott, hogy valódi vevőkkel került kapcsolatba és
+értesült a szükségleteikről. Például lehet, hogy az üzleti terv
+árkedvezményt ír elő, de vajon hogyan módosítja a vevők termékről
+alkotott képét az akciós stratégia?
+
+3. Meglepetések is érték, amikor a vevők váratlan magatartást
+tanúsítottak. Így olyan információt is nyújtottak a Zapposnak, amire
+eszébe sem jutott volna rákérdezni. Például, mi van, ha a vevők
+visszaviszik a cipőt?
+
+A Zappos kezdeti kísérlete egyértelmű, számszerűsíthető eredménnyel
+zárult: vagy lesz elegendő cipővásárlójuk, vagy nem. Ráadásul a cég
+megfigyelhette a valódi vevőket és partnereket, kapcsolatba léphetett velük
+és tanulhatott tőlük. Ez a kvalitatív tapasztalat a kvantitatív tesztelés
+velejárója. Bár csak kicsiben indultak, ez nem akadályozta meg, hogy
+megvalósuljon a Zappos nagyszabású víziója. A céget 2009-ben az
+internetes kereskedelem óriása, az Amazon.com állítólag 1,2 milliárd
+dollárért vásárolta fel.
+
+A hosszú távú változáshoz azonnali kísérlet kell
+
+Caroline Barlerin a globális társadalmi innovációs részleg igazgatónője a
+Hewlett Packardnál (HP), a több mint 300 ezer főt foglalkoztató és több mint
+100 milliárd dolláros éves árbevételű multinacionális vállalatnál. Caroline,
+aki a közösségi tevékenységeket irányítja világszerte, olyan innovatív
+
+===== PDF PAGE 58 =====
+vállalkozó, aki azon munkálkodik, hogy minél több HP-s alkalmazott
+használja ki a cég társadalmi munkára vonatkozó irányelvét.
+
+Ez a céges irányelv arra biztat minden alkalmazottat, hogy fordítson a
+munkaidejéből havonta maximum 4 órát a környezetében végzett társadalmi
+munkára. Ez lehet bármilyen közhasznú tevékenység, például kerítésfestés,
+házépítés vagy akár a cégen kívül, jótékonysági céllal, díjazás nélkül végzett
+szakmai munka. Caroline elsősorban ez utóbbit hivatott támogatni.
+Képességei és értékei folytán a HP munkatársai együttesen hatalmas
+potenciált képviselnek, és erőteljes pozitív hatást tudnak gyakorolni. Egy
+webdizájner segítséget nyújthat egy nonprofit szervezet oldalának
+elkészítésében. Egy mérnökcsapat kiépítheti egy iskola internethozzáférését.
+Caroline projektje még gyerekcipőben jár. A legtöbb alkalmazotthoz még el
+sem jutott a társadalmi munkára vonatkozó irányelv híre, és csak töredékük
+élt a lehetőséggel. A legtöbben a kevésbé hatékony változatot, többek között
+a kétkezi munkát választották még akkor is, ha magasan képzett
+szakemberek. Barlerinnek az a víziója, hogy a vállalat sok százezer
+alkalmazottját egytől egyig hadrendbe állítja a közjó szolgálatára.
+
+Ilyen jellegű vállalati kezdeményezések nap mint nap elindulnak a világon.
+A hagyományos definíció szerint nem neveznénk ezeket startupoknak. A
+felszínen úgy tűnik, beleillenek a hagyományos menedzsment és tervezés
+keretei közé. Remélem azonban, hogy a 2. fejezetben leírtak alapján
+sokakban felébred a gyanú: ezt a projektet a Lean Startup szemszögéből is
+elemezhetjük.
+
+Caroline projektje szélsőségesen bizonytalan feltételekkel szembesül: meg
+soha nem volt a HP-nél ilyen volumenű jótékonysági kampány. Hogyan
+lehet biztos abban, hogy ismeri a valódi okokat, amelyek miatt az emberek
+jótékonykodnak? Még ennél is fontosabb kérdés, honnan tudja, hogyan lehet
+több mint 170 ország több százezer lakosának viselkedését megváltoztatni?
+Barlerin arra szeretné ösztönözni munkatársait, hogy jobb hellyé tegyék a
+világot. Ha így nézzük, a terve tele van ellenőrizetlen előfeltevésekkel — és
+egy jó adag vízióval.
+
+A hagyományos menedzsment gyakorlata szerint Barlerin tervezéssel
+foglalkozik, információkat szerez különféle  részlegekről és mas
+menedzserektől, és kezdeményezések menetrendjét készíti elő projektje első
+18 hónapjára. Szigorú elszámoltatási rendszert is kidolgozott, amely
+
+===== PDF PAGE 65 =====
+dollárba került, és célja mindössze annak bizonyítása volt, hogy az emberek
+oda fogják vinni a szennyest, és fizetni fognak a mosásért. A vállalkozók
+nem a teherautón mosták a ruhát — az inkább reklám és figyelemfelkeltés
+gyanánt szolgált —, hanem elvitték a helyszínről és a nap végén visszavitték
+az ügyfeleiknek.
+
+A VLS csapata egy hétig folytatta a kísérletet, mindig más utcasarkon
+parkolt le a furgonnal, és egyre mélyebbre ásott, hogy minden lehetséges
+információt megtudjon a potenciális ügyfelekről. Tudni akarták, hogyan
+vehetnék ni az embereket, hogy hozzájuk járjanak mosatni. Számított-e a
+tisztítás sebessége? Vagy a minősége? Mit kértek az emberek, amikor ott
+hagyták a szennyest? Azt tapasztalták, hogy az ügyfelek szívesen bízzák
+rájuk a mosást, bár gyanús volt számukra a furgon platójára szerelt mosógép:
+attól tartottak, hogy a VLS fogja a ruhájukat, és elhajt vele. Ennek a
+gyanúnak az eloszlatására a VLS masszívabb, újságosbódé jellegű mobil
+felvevőpontot hozott létre.
+
+A VLS azzal is kísérletezett, hogy bódéit a helyi élelmiszerlánc kis üzletei
+előtt parkolja le. A további ismétlések révén a VLS ki tudta puhatolni, mely
+szolgáltatások érdeklik leginkább az embereket, és mennyit hajlandóak értük
+fizetni. Rájöttek, hogy sok ügyfél igényelne vasalást, és hajlandó lenne dupla
+árat adni azért, hogy 24 óra helyett 4 órán belül kapja meg a mosott ruhát.
+
+A korai kísérletek eredményeképpen a VLS egy kb. 1 m x 1,2 m-es
+alapterületű mobil bódét hozott létre, amelyben egy energiatakarékos
+háztartási mosógép, egy szárítógép és egy extra nagy hosszabbító kapott
+helyet. A mobil mosodai szolgáltatás nyugati mosószereket használt, és a
+VLS naponta ellátta friss, tiszta vízzel.
+
+Azóta a VLS jelentősen növekedett: jelenleg 14 helyen működik Bangalore-
+ban, Mysore-ban és Mumbaiban. Ahogyan Akshay Mehra vezérigazgató
+mesélte: , 2010-ben 116000 kg ruhát mostunk ki (szemben a 2009-es 30 600
+kg-mal). A vállalkozás közel 60%-at pedig visszatérő ügyfelek képezik.
+Csak az elmúlt évben több mint 10 000 ügyfelet szolgáltunk ki az összes
+kirendeltségünkön. "18
+
+Lean Startup a kormányzati szektorban?
+
+2010. július 21-én Obama elnök aláírta a Dodd-Frank Wall Street reform és
+fogyasztóvédelmi törvényt. Ennek egyik korszakalkotó rendelkezése új
+kormányhivatalt hozott létre: a Szövetségi Fogyasztóvédelmi Hivatalt
+
+===== PDF PAGE 66 =====
+(Consumer Federal Protection Bureau, CFPB). Az intézmény feladata, hogy
+megóvja az amerikai polgárokat az uzsorakamattal hitelező pénzügyi
+cégektől, például hitelkártya-vállalatoktól, diákhitelt és  gyorskölcsönt
+nyújtóktól. A terv megkívánná egy call center kialakítását, ahol képzett
+munkatársak fogadják az ügyfelek hívásait.
+
+Ha rajta múlna, egy tipikus új kormányhivatal valószínűleg felvenne egy
+sereg munkatársat, és drága és időigényes tervet dolgozna ki nagy
+költségvetésből. A CFPB azonban azt fontolgatja, hogy másként intézi a
+dolgot. 500 millió dolláros költségvetése és illusztris eredete ellenére a
+CFPB valójában startup.
+
+Obama elnök megbízta technológiai tanácsadóját, Aneesh Choprát, hogy
+gyűjtsön ötleteket: hogyan alakítsák ki ezt az új startup kormányhivatalt, és
+itt jöttem be én a képbe. Chopra a Szilícium-völgybe tett egyik látogatása
+során meghívott pár vállalkozót, hogy adjunk neki javaslatokat: hogyan
+lehetne támogatni a startup mentalitást az új kormányhivatalnál, különösen
+az érdekelte, hogyan lehetne a technológia és az innováció kiaknazásával
+hatékonyabbá, gazdaságosabbá és alaposabbá tenni a hivatal működését.
+Javaslatom jelen fejezet elvein alapul: kezeljük kísérletként a CFPB-t,
+azonosítsuk a terv azon elemeit, amelyek inkább előfeltevések, mint tények,
+és találjunk ki módszereket a tesztelésükre! Ezzel a megközelítéssel már
+jóval a hivatalos terv megvalósítása előtt elő lehelne állítani egy minimálisan
+működőképes terméket, és mikroszinten be lehetne indítani a hivatal
+működését.
+
+A jelenlegi terv alapjául szolgáló első számú előfeltevés, hogy amint az
+amerikaiak megtudják, hogy a CFPB-hez fordulhatnak pénzügyi csalás és
+visszaélés esetén, akkor nagy számban élni fognak a lehetőséggel. Ez
+hihetőnek tűnik, hiszen az amerikaiakat évente érintő csalások számát
+felmérő piackutatáson alapul. Mindenesetre, minden felmérés ellenére, ez is
+csak feltételezés. Ha a beérkező hívások száma jelentősen eltér a tervben
+előirányzottól, akkor a terv gyökeres átalakításra szorul. Mi van akkor, ha i
+sertett felek nem is tekintik magukat áldozatnak, és ezért nem kérnek
+segítséget? És ha egész más problémákat tartanak fontosnak? Vagy ha olyan
+ügyekben kérnek segítséget a hivataltól, amelyek nem tartoznak a
+hatáskörébe?
+
+===== PDF PAGE 81 =====
+ügyfeleinket és problémáikat. Ezzel a tudással felvértezve fel tudjuk vázolni
+az ügyfél archetípusát, egy rövid dokumentumot, amely a megcélzott
+ügyfelet próbálja emberközelivé tenni. Ez az archetípus a termék fejlesztés
+alapvető iránytűje, és biztosítja, hogy a napi priorizálási döntések, amelyeket
+minden termékcsapatnak meg kell hozni, összhangban legyenek a
+kiszolgálandó ügyfelek igényeivel.
+
+Számos technika létezik a pontos ügyfélarchetípus felépítésére. Ezé két sok
+év gyakorlata során fejlesztette ki a tervezőközösség. Rendkívül hasznosak a
+hagyományos megközelítések például az interakciós tervezés és a tervezői
+gondolkodásmód. Számomra mindig furcsának tűnt, hogy ezek a
+megközelítések gyakran hangsúlyozottan kísérletezésre és ismétlésre
+épülnek, a gyors prototípus-készítés és a személyes ügyfélmegfigyelés
+technikáját alkalmazzák a tervezők munkájának irányítására. Viszont a
+tervezőirodák hagyományos díjazási módja miatt az összes ilyen jellegű
+munka eredménye egy monolitszerű termék. Hirtelen vége szakad a gyors
+tapasztalatszerzésnek és kísérletezésnek, és úgy tesznek, mintha a tervezők
+már mindent tudnának, amit tudni lehet. A startupok számára ez nem járható
+út. Nincs annyi terv a világon, amellyel meg lehetne előlegezni azt a
+rengeteg eshetőséget, ami akkor kerül felszínre, amikor életre hívunk egy
+terméket a való világban.
+
+Valójában egy új tervezői iskola vadonatúj technikákat fejleszt Lean
+Felhasználói Élmény (Lean User Experience, Lean UX) néven. Felismerték,
+hogy az ügyfélarchetípus nem tény, hanem csak hipotézis. Az ügyfélprofilt
+mindaddig ideiglenesnek kell tekinteni, amíg az igazolt tapasztalat
+segítségével rá nem találtunk arra a stratégiára, amellyel fenntartható módon
+ki tudjuk szolgálni ezt az ügyféltípust.25
+
+Analízis-paralízis
+
+Kétféle veszély leselkedik állandóan a vállalkozókra, amikor piackutatást
+végeznek és az ügyfelekkel beszélgetnek. A , Csak csináld!" irányzatot
+követő vállalkozók alig várják, hogy munkához lói hassanak, és eszük
+ágában sincs időt vesztegetni a stratégia elemzésére. Inkább azonnal
+nekilátnak az alkotómunkának, gyakran csak néhány ügyféllel folytatott,
+felületes beszélgetésre alapozva. Sajnos mivel az ügyfelek nem igazán
+tudják, mit akarnak, ezek a vállalkozók könnyen azzal áltathatják magukat,
+hogy jó úton vannak.
+
+===== PDF PAGE 82 =====
+Más vállalkozókat az analízis-paralízis fertőzi meg, ők a végtelenségig
+finomítgatják a terveiket. Ebben az esetben hiába beszélnek rengeteg
+ügyfellel, olvassák el kutatási eredmények garmadáját és vázolnak fel
+számiján stratégiát az íróasztalnál ülve. Általában nem az a gond a legtöbb
+vállalkozó tervével, hogy nem követnek megfelelő stratégiai elveket, hanem
+az, hogy téves tényekre alapoznak. Sajnos a legtöbb hibát nem lehet íz
+íróasztalnál kiszűrni, mert ezek a termék és az ügyfél között létrejövő
+kapcsolat apró részletein múlnak.
+
+Ha a túl sok elemzés veszélyes, a túl kevés pedig kudarchoz vezethet, akkor
+honnan tudják a vállalkozók, mikor hagyják abba az elemzést és kezdjenek
+hozzá az alkotómunkához? A válasz a minimálisan működőképes termék. Ez
+lesz a 6. fejezet témája.
+
+TESZTELES
+
+A Groupon minden idők egyik leggyorsabban növekedő vállalata. A cég
+neve a , group coupons” (csoportos kuponok) kifejezésből származik. Ez egy
+zseniális ötlet, amely a közösségikereskedelem-utánzók egész ágazatál
+alapozta meg. Pedig kezdetben nem tűnt bombasikernek. Amikor a Groupon
+előrukkolt az első kínálatával, mindössze 20-an vásároltak , egyet fizet,
+kettőt kap" akcióban pizzát a cég chicagói irodájának első emeletén található
+étteremben. Ezt aligha nevezhetjük korszakalkotó eseménynek.
+
+Valójában a Groupon eredetileg nem is kereskedelmi cégnek indult.
+Alapítója, Andrew Mason a_,,kollektiv aktivizmus platformját" akarta
+létrehozni The Point néven. Az volt a célja, hogy összehozza az embereket
+olyan problémák megoldására, amelyekkel egyedül nem tudnának
+megbirkózni, például pénzügyi támogatókat szerezzenek valamilyen célra,
+vagy bojkottáljának egy bizonyos kiskereskedőt. A The Point kezdeti
+eredményei azonban kiábrándítóak voltak, így 2008 végén az alapítók úgy
+döntöttek, hogy valami másba fognak. Bár még mindig nagyra törő
+ambíciókat ápoltak, elhatározták, hogy ezúttal egyszerűre veszik a figurát.
+Készítettek egy minimálisan működőképes terméket. Úgy hangzik, mint egy
+dollármilliárdos cég története? Mason elmeséli, hogyan történt mindez:
+Készítettünk egy oldalt a WordPress blogon, elneveztük Grouponnak, és
+mindennap készítettünk egy új bejegyzést. Kész nyomortanya volt. Az első
+verzióban pólókat árultunk. Beírtuk: , Ez a póló piros színben, L-es méretben
+kapható. Ha más színt vagy méretet kér, kérjük, írja meg e-mailben!" Nem
+
+===== PDF PAGE 97 =====
+erőfeszítést, amely nem járul hozzá közvetlenül a kívánt a pasztalat
+megszerzéséhez!
+
+Az MVP készítés buktatói
+
+Az MVP készítés valós és képzelt kockázattal jár. Mindkettő alááshatja a
+startup törekvéseit, ha nem értjük meg, hogyan működnek. A leggyakoribb
+buktatók a jogi ügyek, a konkurencia fenyegetése, a márkaérték kockáztatása
+és a morális következmények. A szabadalmat bejegyeztető startupok
+különleges kihívások elé néznek, amikor korai termékverziót dobnak piacra.
+Bizonyos országok törvénye szerint akkor kezdődik a szabadalom be
+nyújtása, amikor a terméket forgalomba hozzák, és lehet, hogy már az MVP
+piacra dobásától indul az óra, attól függően, milyen a felépítése. Még ha nem
+is ilyen országban alapítjuk a startupunkat, akkor is előfordulhat, hogy
+nemzetközi szabadalmat akarunk bejegyeztetni, és azt találjuk, hogy
+kénytelenek vagyunk ezeknek a szigorúbb feltételeknek megfelelni.
+(Véleményem szerint ez az egyik példája annak, hogy a jelenlegi szabadalmi
+törvény gátolja az innovációt, ezért a közpolitika eszközeivel felül kellene
+vizsgálni.)
+
+Számos ágazatban a szabadalmakat elsősorban védekezésre, illetve a
+versenytársak kordában tartására használják. Ilyen esetekben az MVP
+szabadalmi kockázata csekély ahhoz képest, mennyi előny származhat a
+tapasztalatszerzésből. Azonban az olyan ágazatokban, amelyekben egy új
+tudományos fejlesztés a cég versenyelőnyének a kulcsa, óvatosabban kell
+mérlegelni ezeket a kockázatokat. A vállalkozóknak minden esetben jogi
+tanácsot kell kérni annak biztosítására, hogy tökéletesen értsék a
+kockázatokat.
+
+A jogi kockázatok ijesztőek lehetnek, de meglepő módon az évek során
+mégsem azt tapasztaltam, hogy ez lenne az MVP-készítés fő akadálya,
+hanem az, hogy a cégek félnek a konkurenciától — különösen a befutott
+nagyvállalatoktól —, hogy ellopják a startup ötleteit. Mintha olyan könnyű
+lenne ellopni egy jó ötletet! A startupok egyik speciális problémája ugyanis
+éppen az, hogy szinte lehetetlen észrevétetnünk ötletünket, cégünket vagy
+termékünket bárkivel — főleg a konkurenciával. Ennek bizonyítására az ilyen
+félelmeket tápláló vállalkozóknak gyakran adtam az alábbi megbízási:
+keresse meg egy befutott vállalat illetékes termékmenedzserét, és próbálja
+rávenni, lopja el az egyik ötletét (talán az egyik kevésbé fontosat)! Hívja fel,
+írjon neki, küldjön neki egy sajtóközleményt — rajta, próbálja csak meg!
+
+===== PDF PAGE 98 =====
+Az az igazság, hogy a legtöbb cég legtöbb menedzserét már eleve elárasztják
+a jobbnál jobb ötletekkel. Az a kihívás számukra, hogy felállítsák a
+fontossági sorrendet és megvalósítsák a kiválasztott ötleteket, és ez a kihívás
+reménysugár a startupok szdmara.2®
+
+Ha egy konkurens jobb szolgáltatást tud nyújtani a startup ellopott ötlete
+alapján, akkor az a startup már amúgy is kudarcra van ítélve. Azért hozunk
+létre új csapatot egy ötlet kidolgozására, mert hiszünk benne, hogy
+gyorsabban végig tudjuk járni az alkotás-mérés-tapasztalás ciklust, mint
+bárki más. Ha ez tényleg így van, akkor mindegy, mit tud a konkurencia. Ha
+viszont nem így van, akkor a startupnak súlyosabb problémái vannak, és
+ezeket a titkolózás sem fogja megoldani. Előbb-utóbb minden sikeres
+startupnak meg kell küzdenie a gyorsan nyomdokaiba lépő versenytársakkal.
+A kezdeti előny ritkán elég jelentős ahhoz, hogy számítson, és a rejtőzködő
+üzemmódban — az ügyfelektől távol — töltött idő nemigen juttatja előnyhöz a
+vállalkozást. Csak egyetlen módon lehet győzni: ha mindenki inasnál
+gyorsabban tanulunk.
+
+Számos startup azt tervezi, hogy kitűnő márka felépítésebe fekteti energiáit.
+Ilyenkor úgy tűnhet, hogy egy MVP veszélyeztetné a sikeres márkaépítést.
+Ugyanígy, a vállalatokon belül tevékenykedő innovatív vállalkozókat
+gyakran visszatartja az a félelem, hogy rossz fényt vetnek az anyacég bevált
+márkájára. Mindkét esetben működik ugyanaz az egyszerű megoldás:
+vezessünk be MVP-t másik márkanév alatt! Ráadásul hosszú tavon csak
+akkor kockáztatjuk a cég jó hírét, ha nagy hírverést csapunk abevezetés
+körül. Ha a termék nem felel meg a PR keltette felfokozott I válásoknak,
+azzal hosszútávon árthatunk a márkának. De a startupoknak pont az az
+előnye, hogy nincsenek szem előtt, mivel még szánalmasan kevés ügyfelük
+van, és a média nem követi minden lépésüket. Ahelyett, hogy sopánkodnánk
+emiatt, inkább használjuk ki saját javunkra ezeket a vonásait: kísérletezzünk,
+amíg rejtve maradunk, és csak akkor vezessük he síppal-dobbal a terméket,
+amikor már a valós ügyfeleknél bevalt.22
+
+Végül pedig segítségünkre van, ha előre felkészülünk: az MVP gyakran
+Vezet rossz hírekhez. A hagyományos tesztkoncepciókkal és prototípusokkal
+ellentétben az a céljuk, hogy az üzleti kérdések teljes skáláját feltegyek, ne
+csak a dizájnt vagy a műszaki tartalmat teszteljék, így gyakran egy
+egészséges adag valóságot vágnak a képünkbe. Igaz, hogy elég kellemetlen,
+amikor kénytelenek vagyunk levenni a valóságtorzító szemüveget A
+
+===== PDF PAGE 105 =====
+Irányváltás vagy kitartás
+
+Idővel az a csapat, amelyik a fenntartható vállalkozás felé halad a
+tapasztalatszerzés útján, azt veszi észre, hogy az MVP eredményei alapján
+megállapított . siralmas kiindulási mutatói emelkedni kezdenek, és
+közelítenek az üzleti tervben rögzített ideális állapothoz. Amelyik startup
+viszont nem jó irányba halad, azt fogja tapasztalni, hogy ez az ideál egyre
+elérhetetlenebb távolságba kerül. Ha odafigyelünk, akkor a legerősebb
+valóságtorzító szemüveg sem fedheti el ezt az egyszerű tényt: ha nem
+járatjuk az üzleti modellünk motorjait, akkor nem haladunk előre. Ez a
+biztos jele annak, hogy ideje irányt változtatni.
+
+Innovációs elszámolás az IMVU-nál
+
+Innovációs elszámolásunk az IMVU megalakulásának kezdeti időszakában
+így nézett ki. Minimálisan működőképes termékünk számos hibát
+tartalmazott, és amikor először piacra dobtuk, nevetségesen kis forgalmat
+generált. Természetesen azt feltételeztük, hogy rossz minősége miatt nem
+kapós a termék, ezért hétről hétre a termékfejlesztésen dolgoztunk abban
+bízva, hogy fáradozásainknak meglesz a gyümölcse. Minden hónap végén
+tartottunk egy igazgatótanácsi ülést, amelyen bemutattuk az eredményeket.
+Előző este elvégeztük a szokásos elemzéseket és méréseket, meghatároztuk a
+konverziós aranyokat, az ügyfelek számát és az árbevételt, hogy az
+értekezleteken el tudjunk dicsekedni, milyen szép munkát végeztünk. Az
+utolsó pillanatban azonban szinte mindig pánikba estünk, mivel
+minőségjavító intézkedéseink hatására nem változott ügyfeleink viselkedése.
+Ez néhány frusztráló igazgatótanácsi üléshez vezetett, amelyeken szuper
+s előrelépést" tudtunk felmutatni a termékfronton, de az üzleti területen vajmi
+keveset Egy idő után már nem az utolsó pillanatra hagytuk a mutatók
+ellenőrzését, hanem gyakrabban nyomon követtük,  rövidítettük a
+termékfejlesztés során a visszajelzési ciklusokat. Ettől még jobban
+elkeseredtünk, hiszen hétről hétre szembesülnünk kellett azzal, hogy
+termékfejlesztésünk hatástalan.
+
+Termékfejlesztés napi öt dollárból
+
+A konverziós tölcsér mutatószámait figyeltük, amelyek kritikusak
+növekedési motorunk szempontjából: ügyfél-regisztráció, az alkalmazásunk
+letöltése, kipróbálás, ismételt használat és vásárlás. Ahhoz, hogy elég adattal
+rendelkezzünk, amelyekből levonhatjuk a tanulságot, kellő számú ügyfélre
+van szükségünk, akik használják termékünket, így valós számokat kapunk az
+
+===== PDF PAGE 106 =====
+egyes konverziós szakaszokban mérhető felhasználói viselkedésről. Napi
+ötdolláros költségvetést szabtunk ki: ez épp elég volt arra, hogy vásároljunk
+pár kattintást az újnak számító Google AdWords (2018-tól Google Ads)
+rendszerben. Akkoriban 5 cent volt a minimális licit egy kattintásért, de nem
+volt minimális összeg, amiért vásárolni kellett volna. így nagyon kevés
+pénzből is megengedhettük magunknak, hogy nyissunk egy felhasználói
+fiókot és elinduljunk.?8
+
+5 dollárért 100 kattintást tudtunk venni — minden áldott nap. Ez
+marketingszempontból nem nevezhető jelentősnek, de a tapasztalatszerzés
+szem pontjából megfizethetetlen volt. Minden nap vadonatúj ügyfélkörön
+tud tűk lemérni termékünk teljesítményét. Tehát minden alkalommal, amikor
+fejlesztettük a terméket, már másnap visszajelzést kaptunk arról, mennyire
+voltunk sikeresek.
+
+Például egy napon új marketingüzenettel rukkoltunk elő új vevőknek
+számító ügyfeleink felé. Lehet, hogy másnap már megváltoztattuk a
+módszert, hogy a termék felé terelgessük az új ügyfeleket. Más napokon új
+funkciókat alakítottunk ki, kijavítottuk a hibákat, új vizuális effekteket
+készítettünk vagy átalakítottuk a weboldalunk küllemét. Minden alkalommal
+úgy gondoltuk, hogy jobbá tesszük a terméket, de ezt a szubjektív véleményt
+azonnal próbára is tettük valós ügyfeleken.
+
+Éjjel-nappal véletlenszerű kísérleteket folytattunk. Minden nap valami ujjal
+próbálkoztunk. Az ügyfelek pedig naponta változtak — függetlenül az előző
+napiaktól. A legfontosabb, amire rájöttünk: bár a bruttó számok emelkednek,
+a konverziós tölcsér mutatószámai nem változnak.
+
+Íme egy grafikon az IMVU korai igazgatótanácsi üléseiről (lásd a következő
+ábrát). Kb. 7 havi munkánkat mutatja be. Ezalatt folyamatosan fejlesztettük
+az IMVU-terméket, napi rendszerességgel új funkciókat vezettünk be.
+Rengeteg személyes ügyfélinterjút készítettünk, és  termékfejlesztési
+csapatunk rendkívül keményen dolgozott.
+
+===== PDF PAGE 113 =====
+Kumulált mutatók
+120 000
+107 926
+>
+100.000
+— > Regisztralt
+—6 Egyszer jelentkezett be
+80000 — + Aktivált ;
+— Aktív
+60 000
+4
+40000 yO
+‘ dy
+d Y
+20000 A
+x 110860
+oF SOE SOS S OF
+rE FF EF FF FEES
+EO a PPPLPPNE
+
+===== PDF PAGE 114 =====
+De gondoljunk csak vissza az azonos időszak kohorszgrafikon-adataira!
+Igaz, hogy- az IMVU ügyfélköre nő, de az egyes új csoportokból származó
+nyereség nem. Jár a motor, de a tuningolására fordított erőfeszítések nem
+Igazán gyümölcsözőek. Ha csak a hagyományos grafikont vesszük
+figyelembe, akkor nem tudjuk megmondani, hogy az IMVU jó úton halad-e
+a fenntartható vállalkozás felépítése felé, és természetesen a vállalkozói i -
+ipát hatékonyságáról sem kapunk semmiféle információt.
+
+Az innovációs elszámolás nem működik, ha a startup ilyen hiúsági
+mulatókkal csapja be magát: a teljes ügyfélszámmal és hasonlókkal.
+Hasznosabb alternatíva olyan mutatók alkalmazása, amelyekkel értékelni
+tudjuk az üzleti és tapasztalatszerzési mérföldköveinket. Ezeket nevezem
+felhasználható mutatóknak.
+
+Felhasználható vagy hiúsági mutatók?
+
+Ahhoz, hogy pontosabb képet kapjunk a mérőszámok fontosságáról,
+ismerjük meg a Grockit vállalatot! Alapítója, Farbood Nivi egy évtizedet
+dolgozott tanárként két nagy magánoktatócégnél, a Princeton Review-nál és
+a Kaplannél, ahol például a GMAT-, LSAT- és SAT-tesztekre készítették elő
+a tanulókat. Lebilincselő oktatási stílusával elnyerte diákjai csodálatai és a
+főnökei dicséretét. A Princeton Reviews College pedig neki ítélte , Az év
+tanára az országban" díjat. De Farbot frusztrálták az ezeknél a cégeknél
+alkalmazott hagyományos oktatási módszerek. Mivel napi 6-9 órát tanított és
+több ezer diák ment át a kezén, bőven volt alkalma új megközelítésekkel
+kisérletezni22
+
+Idővel Farb arra a következtetésre jutott, hogy a hagyományos előadótermi
+oktatás, amelyben a tanár beszél, a diákok pedig hallgatják, alkalmatlan
+tanulói számára. Nekilátott, hogy ennél hatékonyabb módszert dolgozzon ki,
+a tanári vezetéssel tartott előadások, egyéni házi feladat és csoportmunka
+kombinációjával. Farb különösen le volt nyűgözve attól, milyen hatékony
+volt, amikor a diákok egymást segítették a tanulásban Ebből két hasznuk is
+származott: egyrészt személyre szabott segítséget kaptak egy olyan társuktól,
+akitől nem tartottak úgy, mint a tanártól. Más részt megerősítették a
+tudásukat azzal, hogy átadták másoknak. Idővel Farb osztályaiban egyre
+jobb légkör uralkodott — és hallgatói egyre sikeresebbé váltak.
+
+Mindeközben Farb egyre inkább kezdte úgy érezni, felesleges személyesen
+jelen lennie az osztályteremben. Fontos összefüggést fedezett fel , Közösségi
+tanulási modellt valósítok meg. A világhálón pedig mindenféle közösségi
+
+===== PDF PAGE 125 =====
+Ezzel szemben a hiúsági mutatók nem felelnek meg ennek a
+követelménynek. Vegyük a céges weboldalra érkező találatok számát!
+Tegyük fel, hogy ebben a hónapban 40 ezer találatunk volt — amellyel új
+rekordot állítottunk fel. Mit tegyünk ahhoz, hogy tovább növeljük ezt a
+számot? Ez attól függ. Honnan jönnek az új találatok? Vajon 40 ezer új
+ügyféltől, vagy ügyetlen, nagyon aktív böngészőt futtató fazontól? A
+találatok egy új marketingkampány vagy PR-akció eredményeképpen
+érkeznek? Egyébként is mit jelent a találat? A böngészőben feljövő egyes
+oldalak számítanak egy-egy találatnak, vagy az összes beágyazott kép és
+multimédiás tartalom is számít? Azok, akik egy tárgyaláson azon vitáznak,
+mi legyen a beszámolókban használt mértékegység, biztosan szembesülni
+fognak ezzel a problémával.
+
+A hiúsági mutatók azért vallanak kudarcot, mert kihasználják az egyik
+emberi gyengeséget. Tapasztalatom szerint, ha a számok emelkednek, az
+emberek hajlamosak azt képzelni, hogy a fejlődés az ő tevékenységüknek
+köszönhető, akármin is dolgoztak akkoriban. Ezért olyan gyakori a meg-
+beszéléseken, hogy a marketingesek verik a mellüket, hogy egy új PR- vagy
+marketingkampány miatt javultak a mutatók, míg a fejlesztők azzal I n
+Lednek, hogy az új funkciók miatt. Rendkívül költséges kideríteni, mi is
+helyzet valójában, így a legtöbb menedzser egyszerűen továbblép, és
+tapasztalatai és a teremben egybegyűltek kollektív intelligenciája alapján
+alkot véleményt.
+
+Sajnos azonban a mutatók romlása teljesen más reakciót vált ki: rögtön
+valaki másra fogjuk. Szóval, a legtöbb csapattag és részleg olyan világban él,
+amelyben az ő munkájuk állandóan jobbá teszi a dolgokat, miközben más,
+hozzá nem értők csak szabotálják kemény munkájukat. Nem csoda, hogy a
+részlegek kifejlesztik a külön nyelvüket, szakzsargonjukat, kultúrájukat és
+védelmi mechanizmusukat a szomszéd szárnyban dolgozó , hígagyúakkal"
+szemben.
+
+A felhasználható mutatók jelentik a megoldást a problémára. Ha az emberek
+egyértelműen értik az ok-okozati összefüggéseket, akkor jobban tudnak
+tanulni a hibáikból. Az emberek ugyanis ösztönösen tehetségesek a
+tanulásban, ha egyértelmű és objektív értékelést kapnak.
+
+Elérhető
+
+Túl sok kimutatást nem értenek meg azok az alkalmazottak és a
+menedzserek, akiknek a döntéshozását hivatottak segíteni. Sajnos a legtöbb
+
+===== PDF PAGE 126 =====
+menedzser nem azzal reagál erre a komplexitásra, hogy kéz a kézben
+együttműködne az adattárházcsapattal, hogy a kimutatások egyszerűbbé és
+érthetőbbé váljanak. A részlegek többnyire arra fordítják energiájukat, hogy
+rájöjjenek, hogyan használhatják az adatokat arra, hogy elérjék, amit
+akarnak; ahelyett, hogy visszajelzésként használnák ezeket, útmutatásul
+szolgálnak a jövőbeli tevékenységeikhez.
+
+Az adatok fenti, hibás használatára azonban van ellenszer. Először is
+legyenek a kimutatásaink a lehető legegyszerűbbek, hogy mindenki számára
+érthetőek legyenek! Ne feledjük a mondást: , A mutató is csak ember"! Úgy
+lehet a legkönnyebben közérthető kimutatást készíteni, ha kézzelfogható
+egységeket alkalmazunk. Mi az a weboldaltalálat? Senki sem teljesen biztos
+benne, de mindenki tudja, mit jelent a látogató: az ember el tudja képzelni
+azokat, akik a számítógépüknél ülnek.
+
+A kohorszkimutatások az arany középutat jelentik a mutatók terén: a
+komplex tevékenységeket embereken alapuló kimutatásokká alakítják át.
+Minden kohorszelemzés megmutatja, hogy az adott időszakban a
+termékünket használók közül hányra volt jellemző a kívánt viselkedés. A.
+IMVU-nál például négyféle viselkedést — követhettünk — nyomon:
+termékletöltés, bejelentkezés a termékre a számítógépről, csevegés más
+ügyfelekkel es a termék fizetős verziójának megvásárlása. Más szóval, a
+kimutatás az emberekről és a tevékenységeikről szól, ami sokkal
+hasznosabb, mint egy halom adatpont. Gondoljuk meg például, milyen nehéz
+lett volna meg mondani, hogy sikeres-e az IMVU, ha csak a személyek közti
+kommunikáció teljes mennyiségét nézzük! Tegyük fel, hogy 10 ezer
+társalgást mértünk egy időszakban! Ez jónak számít? Vajon egyvalaki
+nagyon-nagyon közlékeny, vagy 10 ezren próbálják ki egyszer a terméket, és
+utána soha többé nem térnek vissza? Nem tudhatjuk, ha nem készítünk
+részletesebb kimutatást.
+
+Miközben a bruttó számok növekednek, az elérhetőség egyre fontosabbá
+válik. Nehéz elképzelni, mit jelent ez, ha csak annyit tudunk, hogy a
+weboldaltalálatok száma egyik hónapról a másikra 250 ezerről 200 ezerre
+csökkent, de a legtöbben azonnal megértik, mit jelent 50 ezer ügyfél
+elvesztése. Ez gyakorlatilag egy teljes stadionnyi tömeg, akik elpártolnak a
+terméktől.
+
+Az elérhetőség a kimutatások széles körű hozzáférhetőségére is vonatkozik.
+A Grockit ezen a téren különösen jól teljesített. A rendszerük minden nap
+
+===== PDF PAGE 177 =====
+Honnan jön a növekedés?
+
+A növekedési motor az a mechanizmus, amelyet a startupok használnak a
+fenntartható növekedés biztosítására. Azért használom a fenntartható
+kifejezést, hogy kizárjam az összes egyszeri tevékenységet, amelyek hirtelen
+ügyfélrohamot váltanak ki, de hosszú távon nem hatásosak. Ilyen például
+egyetlen reklám vagy hírverés, amely alkalmas lehet a növekedés
+beindítására, de hosszú távon nem tudja fenntartani.
+
+A fenntartható fejlődésnek egyetlen egyszerű szabálya van:
+
+Az új ügyfelek a korábbi ügyfelek lépéseiből származnak.
+
+Négy alapvető módja van annak, hogy a korábbi ügyfelek fenntartható
+növekedést váltsanak ki:
+
+1. Élőszó. A legtöbb termék hordoz némi természetes növekedési
+potenciált abból adódóan, hogy az elégedett ügyfelek lelkesednek a
+termékért. Például amikor megvettem az első TiVo digitális
+videofelvevőmet, nem győztem dicsekedni vele a barátaim és a
+családom körében. Hamarosan az összes rokonom vett egyet.
+
+2.A termék használatának mellékhatása. A divatos vagy
+státusszimbólumnak . tekintett termékek, például a luxuscikkek
+ismertsége növekszik minden használattal. Például, ha valakit a
+legújabb divat szerinti ruhában vagy bizonyos autóban látunk, az lehet,
+hogy arra indít minket, hogy mi is megvásároljuk az illető terméket. Ez
+az ún. virális termékekre, például a Facebookra és a PayPalra is igaz.
+Ha egy ügyfél PayPalon keresztül küld pénzt egy ismerősének, akkor az
+utóbbi automatikusan kapcsolatba kerül a PayPallel.
+
+3. Fizetett reklám. A legtöbb cég arra használja a reklámot, hogy új
+ügyfeleket csalogasson magához, akik kipróbálják a termékeit. Ahhoz,
+hogy a reklám a fenntartható növekedés forrása lehessen, a bevételből
+kell finanszírozni, nem pedig egyszeri forrásból, például tőkebefektetők
+pénzéből. Amíg az új ügyfélszerzés költsége (határköltség) kevesebb,
+mint az adott ügyfél által generált bevétel (határbevétel), a többlet
+(határhaszon) fel használható további ügyfelek megszerzésére. Minél
+több a határhaszon annál gyorsabb a növekedés.
+
+4. Ismételt vásárlás vagy használat. Néhány terméket úgy terveznek, hogy
+ismételten meg kelljen vásárolni, vagy előfizetéses rendszerben
+(például kábelszolgáltató), vagy önkéntes ismételt vásárlás útján
+
+===== PDF PAGE 178 =====
+(élelmiszer vagy villanykörte). Ezzel szemben számos termék és
+
+szolgáltatás szándékosan egyszeri alkalomra szól, például az
+
+esküvőtervezés.
+A fenntartható növekedés ezen forrásai visszajelzési köröket hoznak
+működésbe, amelyeket növekedési motoroknak nevezek. Mindegyik olyan,
+mint egy robbanómotor, amelyik folyamatosan mozgásban van. Minél
+fürgébb a visszajelzési kör, annál gyorsabb a vállalat növekedése. Mindegyik
+motorra sajátos mutatók jellemzők, amelyek meghatározzák, hogy milyen
+gyorsan tud növekedni az adott motort alkalmazó vállalat.
+A növekedés három motorja
+A Második részben láthattuk, mennyire fontos, hogy a startupok a megfelelő
+— felhasználható — mutatókat alkalmazzák előrehaladásuk értékelése
+érdekében. Mindenesetre ez nagy mozgásteret ad arra, mely számokat
+mérjük Valójában a potenciális veszteség egyik legköltségesebb formája a
+startupok esetén az, amikor arról vitáznak, miként állítsák fontossági
+sorrendbe az új fejlesztéseket, miután piacra dobták a terméket. A vállalat
+bármikor fordít hat energiát új ügyfelek felkutatására, a meglevők
+kiszolgálására, a minőség javítására vagy a költségek leszorítására.
+Tapasztalatom szerint a vállalatok idejük jelentős részét az ilyen prioritási
+döntések megvitatására fordítják.
+A növekedés motorjának az a lényege, hogy viszonylag kevés mérőszámra
+irányítja a startupok figyelmét, hogy ezekre koncentrálják az energiáikat.
+Ahogyan az egyik mentorom, Shawn Carolan kockázatitőkebefektető
+megfogalmazta: ,A startupok nem éhen halnak, hanem megfulladnak."
+Mindig kismillió új ötlet közül válogathatunk, amelyek jobbá teszik a
+terméket, de az a szomorú igazság, hogy a legtöbb csak jelentéktelen előnyt
+nyújt. Pusztán optimalizálásra szolgál. A startupoknak a nagyszabású
+kísérletekre kell koncentrálniuk, amelyeknek köszönhetően kikristályosodik
+az igazolt tapasztalat. A növekedési motor modellje abban segít, hogy a
+lényeges mutatókra összpontosítsanak.
+A ragadós növekedési motor
+Ezzel visszatérünk a fejezet elején megismert két startuphoz. Bár teljesen
+különböző ágazatban tevékenykednek, mindkettő pontosan ugyanazt a
+növekedési motort alkalmazza. Termékükkel próbálják meghódítani és
+hosszú távon megtartani az ügyfeleiket. Az ügyfélmegtartás mechanizmusa
+
+===== PDF PAGE 189 =====
+segítségével értékelni lehet, hogy a startup közel jár-e a termék-piac
+összhang eléréséhez. A 0,9-es vagy annál nagyobb virális együtthatóval
+rendelkező startup már a siker küszöbén áll. Még ennél is jobb, ha az egyes
+növekedési motorok mérőszámai kéz a kézben járnak a 7. fejezetben tárgyalt
+innovációs elszámolási modellel, hogy irányt mutassanak a startup
+termékfejlesztési erőfeszítéseinek. Például, ha a startup a virális növekedési
+motort próbálja alkalmazni, akkor fejlesztési törekvéseit az ügyfelek
+viselkedését — a virális ciklust — befolyásoló területekre koncentrálhatja, és
+nyugodtan figyelmen kívül hagyhatja a többit. Az ilyen startupnak nem kell
+marketing-, reklám- vagy értékesítési területekre szakosodnia. A fizetett
+motort alkalmazónak viszont éppen a marketinget és az értékesítési kell
+sürgősen fejlesztenie.
+A startup úgy értékelheti, közelebb került-e a termék-piac összhang
+megvalósításához, hogy az innovációs elszámolás segítségével minden
+menet eredményességét megvizsgálja az alkotás-mérés-tapasztalás ciklussal
+Nem a puszta számok és a hiúsági mutatók azok, amelyek valóban fontosak,
+hanem az előrehaladás iránya és mértéke.
+Például képzeljünk el két startupot, amelyek serényen munkálkodnak a
+ragadós növekedési motor hangolásán. Az egyikük növekedési üteme 5%-os,
+a másiké 10. Melyik cég a jobb? (Lásd a következő táblázatot!) Felszínesen
+nézve úgy tűnhet, hogy a nagyobb ütemű növekedés a jobb, de mi van akkor,
+ha a két cég innovációs elszámolási értékelése az alábbiak szerint fest?
+NÖVEKEDÉSI ARÁNY A VÁLLALAT B VÁLLALAT
+HAT HÓNAPPAL EZELŐTT 0,196 9,8%
+OT HONAPPAL EZELOTT 0,5% 9,6%
+NEGY HONAPPAL EZELOTT 2,0% 9,9%
+
+HAROM HONAPPAL EZELOTT 3,2% 9,8%
+
+KET HONAPPAL EZELOTT 4,5% 9,2%
+
+===== PDF PAGE 190 =====
+EGY HÓNAPPAL EZELŐTT 5,0% 10,0%
+Bar nem ismerjük a két cég bruttó számait, látatlanban is megmondhatjuk,
+hogy az A vállalat valódi előrehaladást produkál, míg a B vállalat
+megrekedt. Ez annak ellenére is igaz, hogy a B vállalat jelenleg gyorsabban
+nő, mint az A.
+Amikor lefullad a motor
+Épp elég nehéz beindítani a startup növekedési motorját, de az az igazság,
+hogy végül minden motor kifut az üzemanyagból. Mindegyik az ügyfelek
+egy — adott csoportjához, az ő  szokásaikhoz,  preferenciáikhoz,
+reklámcsatornáikhoz és kapcsolataikhoz kötődik. Egy bizonyos ponton ez az
+ügyfélcsoport kimerül. Ez az ágazattól és az időzítéstől függően rövidebb
+vagy hosszabb időn belül következik be.
+A 6. fejezetben hangsúlyoztuk, milyen fontos, hogy a minimálisan
+működőképes termék ne tartalmazzon több funkciót, mint amennyit a korai
+követők feltétlenül igényelnek. Ha sikerrel követjük ezt a stratégiát, akkor
+olyan növekedési motort találhatunk, amely eléri a célközönséget. Viszont
+tetemes többletmunkára lesz még szükség ahhoz, hogy kiterjesszük a halast
+a főáramlatbeli ügyfelekre is.§1 Amint rendelkezünk olyan termékkel, amely
+növekedésnek indult a korai követők körében, akkor elméletben teljesen
+leállíthatnánk a termékfejlesztést. A termék tovább fejlődne, amíg el nem éri
+a korai piac határait. Azután ez a folyamat lelassulna vagy akár le is állna. A
+kihívás abból adódik, hogy ez a lassulás hónapokig, sőt évekig is elhúzódhat.
+Emlékezzünk vissza a 8. fejezetre: az IMVU — először — éppen ebből az
+okból bukott meg a vizsgán.
+Néhány szerencsétlen vállalat azért megy tönkre, mert nem elég gondosan
+követi ezt a stratégiát. Mivel hiúsági mutatókat és hagyományos cl
+számoltatást alkalmaznak, elhiszik, hogy előrehaladnak, csak mert úgy
+látják, hogy növekednek a számok. Abban a tévhitben élnek, hogy javítanak
+a termékükön, miközben valójában semmi hatást nem fejtenek ki az
+ügyfelek viselkedésére nézve. Növekedés csakis járó növekedési motortól
+eredhet — amely hatékonyan működik, így új ügyfeleket tud bevonzani —
+nem pedig a termékfejlesztéstől. Ezért, ha a növekedés hirtelen lelassul az
+válságot gerjeszt.
+A befutott vállalatok is ugyanezzel a problémával szembesülnek. Mull béli
+sikereik a pontosan behangolt növekedési motornak köszönhetők. I la ez a

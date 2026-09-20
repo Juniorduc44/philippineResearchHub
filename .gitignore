@@ -1,0 +1,17 @@
+# Personal overrides (Grok/Claude still load this if present)
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Secrets and local tool state
+.env
+.env.*
+secrets/
+tools/.venv/
+tools/browser-use/
+__pycache__/
+*.pyc
+
+# Transient ingest
+research/inbox/.tmp/
+*.part
+.DS_Store

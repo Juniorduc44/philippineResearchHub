@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BNRS - Business Name Registration at your fingertips!</title>
+    <meta property="og:url" content="http://bnrs.dti.gov.ph" />
+    <meta property="og:title" content="BNRS - Business Name Registration at your fingertips!" />
+    <meta property="og:author" content="DTI" />
+    <meta property="og:site_name" content="BNRS" />
+    <meta property="og:description"
+        content="Business Name (BN) shall refer to ANY name that is different from THE TRUE NAME OF AN INDIVIDUAL WHICH IS USED OR SIGNED in connection with her/his business..." />
+    <meta property="og:image" content="https://bnrs.dti.gov.ph/frontend/logo.png" />
+<!-- Fav Icon -->
+<link rel="icon" href="https://bnrs.dti.gov.ph/favicon.ico" type="image/x-icon"/>
+
+<!-- Chatbot style -->
+<style>
+
+.proto-container {
+  position: fixed;
+  bottom: 500px;
+  right: -1000px;
+  max-width: calc(100% - 340px); /* Adjust the width as per your requirement */
+  z-index: 9999;
+
+  background-color: #ff6666;
+  position: fixed;
+  opacity: 0.50;
+
+}
+.proto-chat-head {
+  left: 1000px;
+  
+}
+.proto-chat-prompts {
+  left: 2000px;
+  
+}
+
+.proto-webchat {
+  background-color: yellow;
+  border: 100px solid #ccc;
+  border-radius: 5px;
+  padding: 100px;
+  bottom: 1000px;
+  right: 1000px;
+  
+}
+.proto-webchat .proto-header {
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  
+}
+.proto-webchat .proto-message {
+  margin-bottom: 10px;
+}
+</style>
+
+<!-- Chatbot implementation -->
+<div class="proto-container"></div>
+
+<script type="text/javascript">
+window.protoSettings = {
+  id: '01HZEDHB6FGBHNRVHBXHRNQ0QT'
+};
+
+var prs = document.createElement('script');
+prs.src = 'https://embed.proto.cx/index.umd.js';
+prs.type = 'text/javascript';
+prs.async = true;
+prs.onload = function () {
+  window.proto.init(window.protoSettings);
+};
+document.head.appendChild(prs);
+</script>
+
+
+
+<!-- Bootstrap -->
+<link href="https://bnrs.dti.gov.ph/web/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://bnrs.dti.gov.ph/web/rs-plugin/css/settings.css">
+<link href="https://bnrs.dti.gov.ph/web/css/font-awesome.css" rel="stylesheet">
+<link href="https://bnrs.dti.gov.ph/web/css/owl.carousel.css" rel="stylesheet">
+<link href="https://bnrs.dti.gov.ph/web/css/style.css?v=1.15" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
+<style type="text/css">
+  .logo img { height: 60px; padding: 10px; }
+  .footer-logo img{ height: 60px;  }
+  .navbar-nav>li>a { padding: 29px 10px!important; font-weight: 400; font-size: 11px!important; }
+  #topbar a{color: #fff;}
+  #gov_header .navbar-nav>li>a { padding: 15px!important; font-weight: 400; font-size: 11px; }
+  #gov_header{ background: #f7f7f7; overflow: visible; }
+  #gov_header .navbar-nav>li:hover>a, #gov_header .navbar-nav>li>a:hover {
+      color: #333!important;
+      background: none!important;
+  }
+  .site-topbar { margin-top: 50px; }
+  .faqs-service li p { font-size: 15px; line-height: 25px;color: #333; }
+  .faqs-service li p span{ font-weight: 600; }
+  .faqs-service li h4:hover, .faqs-service li h4.active {
+      color: #fff;
+      background: #0a225f;
+  }
+  #advisory_modal p{ font-size: 16px; line-height: 32px; }
+
+  #navbar_main.in{ background: #fff; }
+  #navbar_main.in li a {  padding: 12px 10px!important; }
+  #navbar_main_btn{margin-top: -60px;
+    right: -15px;}
+  /*.footer-wrap{background: #e2e2e2!important;}*/
+  /*.footer-wrap p,.footer-wrapper .address{ color: #333!important; }*/
+</style>
+
+    <style type="text/css">
+        .bg-text {
+            padding: 5px;
+            background: rgba(25, 25, 25, 0.25)
+        }
+
+        @media (min-width: 992px) {
+            .modal-content {
+                width: 960px;
+                margin: 0px -25%;
+            }
+
+            .modal-body #wrapper {
+                width: 50%;
+                float: left;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<style>
+  .dropdown-divider {
+    height: 0;
+    overflow: hidden;
+    border-top: 1px solid #e9ecef;
+  }
+
+  .dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 1rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background: none;
+    border: 0;
+  }
+
+  .dropdown-item:focus,
+  .dropdown-item:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #ff0000;
+  }
+
+  .dropdown-item.active,
+  .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #ff0000;
+  }
+
+  .caret-right {
+    border-left: 4px solid;
+    border-bottom: 4px solid transparent;
+    border-top: 4px solid transparent;
+  }
+
+  #navbarDropdownLi.nav-item.dropdown>div#menu-drop {
+    display: none !important;
+  }
+
+  #navbarDropdownLi.nav-item.dropdown.open>div#menu-drop {
+    display: block !important;
+  }
+
+  #navbarDropdownResources.nav-item.dropdown>div#menu-drop2 {
+    display: none !important;
+  }
+
+  #navbarDropdownResources.nav-item.dropdown.open>div#menu-drop2 {
+    display: block !important;
+  }
+</style>
+<nav class="navbar navbar-default navbar-static-top navbar-fixed-top" id="gov_header">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://www.gov.ph/" style="color: #000" target="_blank">GOVPH</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="https://www.dti.gov.ph/" target="_blank">DTI Home</a></li>
+        <li class="dropdown"> <a href="https://www.dti.gov.ph/transparencyseal" target="_blank"> TRANSPARENCY SEAL <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://www.dti.gov.ph/transparencyseal/citizenscharter" target="_blank">CITIZEN'S CHARTER</a></li>
+            <li><a href="https://www.dti.gov.ph/transparencyseal/philgeps-procurement" target="_blank">PHILGEP'S PROCUREMENT</a></li>
+            <li><a href="https://www.dti.gov.ph/transparencyseal/bac-resources" target="_blank">BAC RESOURCES</a></li>
+          </ul>
+        </li>
+        <li><a href="https://www.dti.gov.ph/sitemap" target="_blank">SITEMAP</a></li>
+        
+        <li><a href="https://www.dti.gov.ph/resources/faqs/" target="_blank">FAQ</a></li>
+        <li><a href="https://www.dti.gov.ph/dti-contact-us" target="_blank">CONTACT</a></li>
+      </ul>
+      
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
+
+<!-- Topbar Start-->
+<div id="topbar" class="site-topbar">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-sm-8">
+        <ul class="bar-info">
+                  <li><i class="fa fa-phone"></i>Text/Viber:  09175953930</li>
+                        <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:bnrshelpdesk@dtiphmail.dti.gov.ph">bnrshelpdesk@dtiphmail.dti.gov.ph</a></li>
+              </ul>
+      </div>
+      <div class="col-md-4 col-sm-4">
+        <ul class="topbar-links">
+                    <li><a href="https://bnrs.dti.gov.ph/login"><i class="fa fa-sign-in"></i> <span>LOGIN</span></a></li>
+          <!-- <li>
+            <a href="https://mybnrs.dti.gov.ph/login/index.html" style="background: white; padding: 4px 3px; border-radius: 5px; color: #0a225f; font-weight: 600;">
+              <img src="https://mybnrs.dti.gov.ph/login/assets/img/bnrs-logo.png" style="width: 80px;margin-bottom: 3px;">
+              <span class="p-1 fw-bold">Login</span>
+          </a>                                  
+          </li> -->
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Topbar End -->
+
+<!-- Header Start-->
+<div class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-3">
+        <div class="logo">
+          <a href="https://www.dti.gov.ph/" target="_blank"><img src="https://bnrs.dti.gov.ph/templates/logo.png" alt="" style="height: 65px;"></a>
+          <a href="https://bnrs.dti.gov.ph"><img src="https://bnrs.dti.gov.ph/frontend/logo.png" alt="" /> </a>
+        </div>
+      </div>
+      <div class="col-md-8 col-sm-9">
+        <div class="navigationwrape">
+          <div class="navbar navbar-default" role="navigation">
+            <div class="navbar-header" id="navmain_header">
+              <button id="navbar_main_btn" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar_main"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar_main">
+              <ul class="nav navbar-nav">
+                <li> <a href="https://bnrs.dti.gov.ph" class="active"> HOME </a></li>
+                <li> <a href="https://bnrs.dti.gov.ph/about" class=""> ABOUT BNRS</a></li>
+                <li class="nav-item dropdown" id="navbarDropdownLi">
+                  <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    BUSINESS NAME SERVICES <span class="caret"></span>
+                  </a>
+                  <div class="dropdown-menu" id="menu-drop" aria-labelledby="navbarDropdown" role="menu">
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/search/search_this"><span class="caret caret-right"></span> SEARCH</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/registration"><span class="caret caret-right"></span> NEW REGISTRATION</a>
+                    <div class="dropdown-divider"></div>
+                    <!-- ENABLE/DISABLE USING APP-config -->
+                                        <!-- End of CODE -->
+                    <div class="dropdown-divider"></div>
+
+                    <!--  -->
+
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/renewal"><span class="caret caret-right"></span> RENEWAL</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/cancellation"><span class="caret caret-right"></span> CANCELLATION</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/request-certification"><span class="caret caret-right"></span> REQUEST CERTIFICATION</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/inquiry"><span class="caret caret-right"></span> TRANSACTION INQUIRY</a>
+                  </div>
+                </li>
+
+                <li> <a href="https://bnrs.dti.gov.ph/faq" class=""> FAQ </a></li>
+                <li> <a href="https://bnrs.dti.gov.ph/news"> NEWS </a></li>
+                <li> <a href="https://www.dti.gov.ph/dti-contact-us" target="_blank">CONTACT US</a></li>
+
+                <li class="nav-item dropdown" id="navbarDropdownResources">
+                  <a class="dropdown-toggle " href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    RESOURCES <span class="caret"></span>
+                  </a>
+                  <div class="dropdown-menu" id="menu-drop2" aria-labelledby="navbarDropdown2" role="menu">
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/resources/registration-guide"><span class="caret caret-right"></span> REGISTRATION GUIDE</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://bnrs.dti.gov.ph/resources/download"><span class="caret caret-right"></span> DOWNLOAD</a>
+                    <div class="dropdown-divider"></div>
+                    
+                                <a class="dropdown-item" href="https://bnrs.dti.gov.ph/resources/video-tutorials"><span class="caret caret-right"></span> VIDEO TUTORIALS</a>
+            <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" href="https://bnrs.dti.gov.ph/resources/feedback-form"><span class="caret caret-right"></span> FEEDBACK FORM</a>
+            <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" href="https://bnrs.dti.gov.ph/resources/information-materials"><span class="caret caret-right"></span> INFORMATION MATERIALS</a>
+            <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" href="https://bnrs.dti.gov.ph/resources/bn-statistics"><span class="caret caret-right"></span> BN STATISTICS</a>
+            <div class="dropdown-divider"></div>
+                            </div>
+                </li>
+
+                
+                    
+                    
+                    
+
+                    
+
+                              </ul>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Header End-->
+        <div class="tp-banner-container">
+            <div class="tp-banner">
+                <ul>
+                                            <li data-slotamount="7" data-transition="fade" data-masterspeed="1000" data-saveperformance="on"> <img
+                                alt="" src="https://bnrs-testing.s3-ap-southeast-1.amazonaws.com/images/20200408/resized/m6rwl1voc12006.jpg"
+                                data-lazyload="https://bnrs-testing.s3-ap-southeast-1.amazonaws.com/images/20200408/resized/m6rwl1voc12006.jpg">
+                                                            <div class="bg-text">
+                                    <div class="caption lft large-title tp-resizeme slidertext2 bg-text" data-x="left"
+                                        data-y="150" data-speed="600" data-start="1500">BUSINESS NAME REGISTRATION </div>
+                                    <div class="caption lfl large-title tp-resizeme slidertext3 bg-text" data-x="left"
+                                        data-y="220" data-speed="600" data-start="1800"><span>AT YOUR FINGERTIPS!</span>
+                                    </div>
+                                    <div class="caption lfb large-title tp-resizeme slidertext6 bg-text" data-x="left"
+                                        data-y="290" data-speed="600" data-start="1800">Ease of Doing Business</div>
+                                    <div class="caption lfl large-title tp-resizeme slidertext7" data-x="left"
+                                        data-y="320" data-speed="600" data-start="3500"><a
+                                            href="https://bnrs.dti.gov.ph/registration">REGISTER NOW! <i
+                                                class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
+                                </div>
+                                                    </li>
+                                    </ul>
+            </div>
+        </div>
+    
+    <!-- Welcome start -->
+    <div class="welcomeWrap">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-8">
+                                            <h1>WHAT IS <span>BUSINESS NAME</span>?</h1>
+                        <p>Business Name (BN) shall refer to ANY name that is different from THE TRUE NAME OF AN INDIVIDUAL WHICH IS USED OR SIGNED in connection with her/his business on any written or printed receipts, including receipts for business taxes, duties and fees and withdrawal or delivery receipts; any written or printed evidence of any agreement or business transaction; and any sign or billboard conspicuously exhibited in plain view in, or at the place of her/his business or elsewhere, announcing his /her business.&nbsp;</p>
+                        <div class="readmore"><a href="https://bnrs.dti.gov.ph/registration">REGISTER NOW!</a></div>
+                                        
+                                            <div class="container">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width:65%; height:380 ;" >
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+      <li data-target="#myCarousel" data-slide-to="6"></li>
+        <li data-target="#myCarousel" data-slide-to="7"></li>
+   
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner"  >
+	
+     <div class="item active">      
+    <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380"  src="https://www.youtube.com/embed/FOnpl3ui3uI" width="100%"></iframe>
+	</div>
+     
+       <div class="item">
+	   <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/-tESI-U9ikc" width="100%"></iframe>
+	   </div>
+    
+   
+      <div class="item">
+	  <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/4zwAUTZTQ4A" width="100%"></iframe>
+	  </div>
+
+	<div class="item">
+	<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/878ZX0Pl_Po" width="100%"></iframe>
+	</div>
+
+	<div class="item">
+	<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/IALZ0rJncok" width="100%"></iframe>
+	</div>
+
+	<div class="item">
+	<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/H-GoT3ka8F8" width="100%"></iframe>
+	</div>
+
+	<div class="item">
+	<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/VZ_8OgMCZKg" width="100%"></iframe>
+	</div>
+
+	<div class="item">
+	<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/40PC2gZOcVU" width="100%"></iframe>
+	</div>
+
+
+
+
+
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+                                    </div>
+                <div class="col-md-4">
+                    <div class="sidebar">
+                        <!-- Related practice -->
+                        <div class="widget" style="min-height: 650px;">
+                            <div class="widget-body" style="max-height: 500px; overflow-y: auto;">
+                                <a class="twitter-timeline"
+                                    href="https://twitter.com/DtiPhilippines?ref_src=twsrc%5Etfw">Tweets by
+                                    DtiPhilippines</a>
+                                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                            </div>
+                            <p style="padding:10px 20px; margin-top: 30px;" class="text-center">
+                                <img style="height: 150px;margin: 0px auto;" src="https://bnrs.dti.gov.ph/frontend/seal.png"
+                                    alt="" class="img img-responsive">
+                                TRANSPARENCY SEAL (GAA 2018)
+                            </p>
+                            <p style="padding:10px 20px; margin-top: 30px;" class="text-center">
+                                <a href="https://bit.ly/CertOfRegistrationNPC" target="_blank">
+                                    <img style="height: 250px;margin: 0px auto;" src="https://bnrs.dti.gov.ph/frontend/dpo_2026.png"
+                                        alt="" class="img img-responsive"
+                                        onclick="https://bit.ly/CertOfRegistrationNPC">
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Welcome end -->
+
+    
+
+<div class="footer-wrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="left-col">
+          <div class="footer-heading">DEPARTMENT OF TRADE AND INDUSTRY</div>
+                    <div class="address"><p>Trade &amp; Industry Building<br />
+361 Senator Gil J. Puyat Avenue,<br />
+Makati City, Metro Manila<br />
+Philippines 1200</p></div>
+                    <ul class="footer-icons">
+                        <li><a href="https://www.facebook.com/DTI.Philippines/test" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.instagram.com/dti.philippines/?hl=en" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://twitter.com/DtiPhilippines" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                      </ul>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6">
+        <div class="footer-heading">Quick Links</div>
+        <ul class="footer-nav">
+          <li><a href="https://bnrs.dti.gov.ph">Home</a></li>
+          <li><a href="https://bnrs.dti.gov.ph/search/search_this">Search Business Name</a></li>
+          <li><a href="https://bnrs.dti.gov.ph/registration">New Registration</a></li>
+          <li><a href="https://bnrs.dti.gov.ph/renewal">Renewal</a></li>
+          <li><a href="https://bnrs.dti.gov.ph/faq">Frequently Asked Questions</a></li>
+          <li><a href="https://bnrs.dti.gov.ph/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="https://dti.gov.ph/contact/" target="_blank">Contact Inquiry</a></li>
+                  </ul>
+      </div>
+      <div class="col-md-4 col-sm-6">
+        <div class="footer-heading">Trunkline</div>
+        <ul>
+                    <li><p>Telephone: <b>Text/Viber:  09175953930</b></p></li>
+                              <li><p>Mobile Phone: <b>Calls:09178630669/09178457104</b></p></li>
+                              <li><p>Email Address: <b><a href="mailto:bnrshelpdesk@dtiphmail.dti.gov.ph">bnrshelpdesk@dtiphmail.dti.gov.ph</a></b></p></li>
+                  </ul>
+      </div>
+    </div>
+    <div class="footer-service">
+      <div class="copyright">Copyright © 2016-2026 DTI. All Rights Reserved</div>
+    </div>
+  </div>
+</div>
+
+<!-- footer end --> 
+<style>
+  .page-scroll {
+    position: fixed;
+    bottom: 250px;
+    right: 5px;
+    z-index: 999;
+  }
+  .page-scroll a {
+    display: block;
+    background-color: #333;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 0px;
+    font-size: 20px;
+    padding-top: 15px;
+  }
+  .page-scroll a:hover {
+    background-color: #444;
+  }
+  .page-scroll a i {
+    display: block;
+    transform: translateY(-3px);
+  }
+</style>
+
+<div class="page-scroll scrollToTop"><a href="#"><i class="fa fa-arrow-up" aria-hidden="true"></i></a></div>
+            <div class="modal fade" id="advisory_modal" tabindex="-1" role="dialog"
+            aria-labelledby="advisory_modal_title" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title" id="advisory_modal_title">ADVISORY</h1>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p><img alt="" src="https://dtibnrs.s3-ap-southeast-1.amazonaws.com/files/20250403/1dizoykjde0821.jpg" style="height:569px; width:1000px" /></p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+<div id="gwt-standard-footer"></div>
+<script type="text/javascript">
+(function(d, s, id) {
+var js, gjs = d.getElementById('gwt-standard-footer');
+
+js = d.createElement(s); js.id = id;
+js.src = "//gwhs.i.gov.ph/gwt-footer/footer.js";
+gjs.parentNode.insertBefore(js, gjs);
+}(document, 'script', 'gwt-footer-jsdk'));
+</script>
+
+<script src="https://bnrs.dti.gov.ph/web/js/jquery-2.1.4.min.js"></script>
+<script src="https://bnrs.dti.gov.ph/web/js/bootstrap.min.js"></script>
+<script src="https://bnrs.dti.gov.ph/web/js/owl.carousel.js"></script>
+<!-- SLIDER REVOLUTION SCRIPTS  -->
+<script src="https://bnrs.dti.gov.ph/web/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script src="https://bnrs.dti.gov.ph/web/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<!-- general script file -->
+<script src="https://bnrs.dti.gov.ph/web/js/script.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $("#advisory_modal").modal('show')
+        })
+    </script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148338504-1"></script>
+ <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+   gtag('config', 'UA-148338504-1');
+ </script>
+
+</body>
+
+</html>
+
