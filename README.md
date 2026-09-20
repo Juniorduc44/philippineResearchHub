@@ -11,7 +11,7 @@ Any AI that opens this repo must follow **`CLAUDE.md`**. That file is the only o
 4. Download a source with “ingest this URL …” or `/ingest-source`.
 5. Do not keep official pages in a browser tab. They belong in `research/inbox/`.
 
-Live gallery: **https://juniorduc44.github.io/philippineResearchHub/**
+Live gallery: **https://juniorduc44.github.io/philippineResearchHub/** (root redirects into `docs/`)
 
 ## Layout
 ```
