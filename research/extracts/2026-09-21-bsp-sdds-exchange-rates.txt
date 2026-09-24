@@ -1,0 +1,61 @@
+Date last updated: 21 September 2026
+Financial Sector
+SDDS Data Category and Component Unit Description Observations More Info
+Date of Latest Latest Data Previous Data
+Analytical Accounts of the Depository Corporations Subsector (Banking Subsector): SRF-Based 1/ BSP
+Total Liquidity Aggregates (M4) and Liabilities Excluded from Broad Money In million Pesos Jul 2026 30,429,268 p/ 30,536,169 p/, r/
+Currency and Transferable Deposits (M1) In million Pesos Jul 2026 7,896,191 p/ 7,986,101 p/, r/
+Currency Outside Depository Corporations and Deposits (M2) In million Pesos Jul 2026 19,865,006 p/ 20,002,420 p/, r/
+Broad-Money Liabilities : Domestic Liquidity (M3) In million Pesos Jul 2026 20,519,681 p/ 20,539,457 p/, r/
+Net Claims on the Central Government In million Pesos Jul 2026 6,230,854 p/ 6,339,835 p/, r/
+Claims on Other Sectors In million Pesos Jul 2026 17,281,626 p/ 17,168,381 p/, r/
+Net Foreign Assets In million Pesos Jul 2026 6,916,788 p/ 7,027,953 p/, r/
+Central Bank Survey BSP
+Net Foreign Assets In million Pesos Aug 2026 6,500,544 p/ 6,315,902 p/, r/
+Domestic Claims In million Pesos Aug 2026 423,789 p/ 370,685 p/, r/
+Reserve Money In million Pesos Aug 2026 3,582,420 p/ 3,607,438 p/, r/
+Liabilities Other Than Reserve Money In million Pesos Aug 2026 3,341,914 p/ 3,079,149 p/, r/
+Interest Rates
+BSP Discount Window Facility Rate In percent per annum Aug 2026 6.405 6.133 BSP
+BSP Policy Rates In percent per annum
+a. Lending (OLF) 18-Sep-2026 5.50 5.50 BSP
+b. Target Reverse Repurchase (RRP) 18-Sep-2026 5.00 5.00 BSP
+External Sector
+SDDS Data Category and Component Unit Description Observations More Info
+Date of Latest Latest Data Previous Data
+Balance of Payments Position In million US$ Aug 2026 -596 -1,470 BSP
+Overall Balance of Payments In million US$ Q2 2026 1,411 -5,288
+Current Accounts In million US$ Q2 2026 -8,968 -6,467 BSP
+Net Goods and Services In million US$ Q2 2026 -17,699 -14,784
+a. Net Goods In million US$ Q2 2026 -19,805 -17,898 BSP
+a.1 Exports of Goods In million US$ Q2 2026 17,256 17,476
+a.2 Imports of Goods In million US$ Q2 2026 37,061 35,374
+b. Net Services In million US$ Q2 2026 2,106 3,114 BSP
+b.1 Exports of Services In million US$ Q2 2026 12,487 12,829 BSP
+b.2 Imports of Services In million US$ Q2 2026 10,380 9,715 BSP
+Net Primary Income In million US$ Q2 2026 952 403 BSP
+Net Secondary Income In million US$ Q2 2026 7,778 7,915 BSP
+Net Capital Account In million US$ Q2 2026 21 18 BSP
+Financial Account In million US$ Q2 2026 -9,599 -2,677 BSP
+Net Direct Investments In million US$ Q2 2026 -1,250 -2,421 BSP
+Net Portfolio Investments In million US$ Q2 2026 -468 1,082 BSP
+Net Financial Derivatives In million US$ Q2 2026 72 24 BSP
+Net Other Investments In million US$ Q2 2026 -7,953 -1,362 BSP
+Change in Net Reserves In million US$ Q2 2026 1,411 -5,288 BSP
+International Reserves In million US$ Aug 2026 104,846 a/ 103,317 BSP
+International Reserves and Foreign Currency Liquidity** In million US$ Jul 2026 BSP BSP BSP
+International Investment Position (IIP) *** In million US$ Q1 2026 -54,924 -50,829 BSP
+Assets In million US$ Q1 2026 258,625 264,096 BSP
+Direct Investment In million US$ Q1 2026 76,819 77,614
+Portfolio Investment In million US$ Q1 2026 44,561 44,891
+Financial Derivatives In million US$ Q1 2026 667 457
+Other Investment In million US$ Q1 2026 29,943 30,301
+Reserve Assets In million US$ Q1 2026 106,636 110,833
+Liabilities In million US$ Q1 2026 313,549 314,926 BSP
+Direct Investment In million US$ Q1 2026 134,183 134,574
+Portfolio Investment In million US$ Q1 2026 81,285 83,807
+Financial Derivatives In million US$ Q1 2026 466 278
+Other Investment In million US$ Q1 2026 97,616 96,267
+External Debt In million US$ Q2 2026 154,932 147,351 BSP
+Exchange Rates
+Philippine Peso per US Dollar 21-Sep-2026 62.670 62.785 BSP

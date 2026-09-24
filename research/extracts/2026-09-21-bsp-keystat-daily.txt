@@ -1,0 +1,19 @@
+Daily Key Statistical Indicators Report
+for 18 September 2026
+Today Previous Week Month Year
+Day Ago Ago Ago
+Domestic Interest Rates (% p.a.)
+Overnight Lending Facility (OLF) Rate 1 5.5000 5.5000 5.5000 5.2500 5.5000
+Target Reverse Repurchase (RRP) Rate 1 5.0000 5.0000 5.0000 4.7500 5.0000
+Overnight Deposit Facility (ODF) Rate 1 4.5000 4.5000 4.5000 4.2500 4.5000
+Interbank Call Loan Rate (17 September 2026)
+Weighted Average 5.0313 5.0313 5.0313 4.7813 5.0938
+High 5.0313 5.0313 6.7500 4.7813 5.1563
+Low 5.0313 5.0313 5.0313 4.7813 5.0625
+Commodity Prices (per troy oz, in Philippine peso)
+(07 November 2003)
+Gold, Closing 271,438 266,728 269,136 270,848 207,464
+Exchange Rate
+Philippine peso per US dollar Rate 62.785 62.732 62.542 61.539 56.8680
+1 On 3 June 2016, the BSP adopted an Interest Rate Corridor (IRC) system to guide short-term market rates towards the central bank (CB) target/policy rate, specifically the Target RRP rate. The OLF and ODF rates serve as the upper and lower bounds of the corridor, respectively.
+Source: Bangko Sentral ng Pilipinas

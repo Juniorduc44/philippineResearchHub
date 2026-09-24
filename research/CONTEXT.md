@@ -1,6 +1,6 @@
 # Research workspace
 
-Last updated: 2026-09-20
+Last updated: 2026-09-24
 
 ## What happens here
 This is the source library. Anything an AI would otherwise re-search in a browser is downloaded once, extracted if needed, and indexed. Later turns read the files.

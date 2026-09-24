@@ -8,6 +8,11 @@ CLAUDE.local.md
 secrets/
 tools/.venv/
 tools/browser-use/
+tools/gods-eye-view/
+tools/.node/
+tools/.godseye.pid
+tools/.godseye.log
+tools/.godseye-watch/*.png
 __pycache__/
 *.pyc
 

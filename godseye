@@ -1,0 +1,213 @@
+#!/usr/bin/env bash
+# Start God's Eye View locally. From the hub root: godseye
+# Clone lives in tools/gods-eye-view. Node 24 is vendored in tools/.node.
+set -euo pipefail
+
+resolve_hub() {
+  local source="${BASH_SOURCE[0]}"
+  while [[ -L "$source" ]]; do
+    local dir
+    dir="$(cd -P "$(dirname "$source")" && pwd)"
+    source="$(readlink "$source")"
+    [[ "$source" != /* ]] && source="$dir/$source"
+  done
+  cd -P "$(dirname "$source")" && pwd
+}
+
+HUB="$(resolve_hub)"
+APP="$HUB/tools/gods-eye-view"
+NODE_DIR="$HUB/tools/.node"
+NODE_VER="${GODSEYE_NODE_VER:-v24.14.0}"
+HOST="${HOST:-127.0.0.1}"
+PORT="${PORT:-4173}"
+PIDFILE="$HUB/tools/.godseye.pid"
+LOGFILE="$HUB/tools/.godseye.log"
+UPSTREAM="https://github.com/bilawalsidhu/gods-eye-view.git"
+
+user_url() {
+  local tmpl="${VSCODE_PROXY_URI:-}"
+  if [[ -n "$tmpl" && "$tmpl" == *"{{port}}"* ]]; then
+    echo "${tmpl//\{\{port\}\}/${PORT}}"
+  else
+    echo "http://${HOST}:${PORT}/"
+  fi
+}
+
+vite_cmd() {
+  # Hub overlay: relative asset URLs + iframe-friendly headers for code-server.
+  echo npm run dev -- --config "$HUB/tools/godseye.vite.config.mjs" --host "$HOST" --port "$PORT"
+}
+
+usage() {
+  cat <<EOF
+godseye — local God's Eye View (3D globe + live public layers)
+
+Usage (from the hub root, or anywhere if this command is on PATH):
+  godseye              start the GUI
+  godseye --bg         start in the background
+  godseye --stop       stop a background instance
+  godseye --status     print the verified URL / pid
+  godseye --help
+
+In this code-server workspace the interface is:
+  $(user_url)
+
+Not http://127.0.0.1:${PORT}/ from your laptop — that is inside the container.
+Optional keys: in-app POWER UP, or tools/gods-eye-view/.env (never commit).
+EOF
+}
+
+ensure_node() {
+  if [[ -x "$NODE_DIR/bin/node" ]]; then
+    return 0
+  fi
+  echo "Installing Node ${NODE_VER} into tools/.node (system Node is too old)..."
+  local tmp
+  tmp="$(mktemp -d)"
+  curl -fsSL "https://nodejs.org/dist/${NODE_VER}/node-${NODE_VER}-linux-x64.tar.xz" \
+    -o "$tmp/node.tar.xz"
+  tar -xJf "$tmp/node.tar.xz" -C "$tmp"
+  rm -rf "$NODE_DIR"
+  mv "$tmp/node-${NODE_VER}-linux-x64" "$NODE_DIR"
+  rm -rf "$tmp"
+}
+
+ensure_clone() {
+  if [[ -f "$APP/package.json" ]]; then
+    return 0
+  fi
+  echo "Cloning God's Eye View into tools/gods-eye-view..."
+  mkdir -p "$HUB/tools"
+  git clone --depth 1 "$UPSTREAM" "$APP"
+}
+
+ensure_deps() {
+  if [[ -x "$APP/node_modules/.bin/vite" ]]; then
+    return 0
+  fi
+  echo "Installing npm packages (first run)..."
+  (cd "$APP" && npm ci)
+}
+
+port_busy() {
+  local p="$1"
+  if command -v ss >/dev/null 2>&1; then
+    ss -ltn 2>/dev/null | grep -qE ":${p}\\b"
+  else
+    (echo >/dev/tcp/127.0.0.1/"$p") >/dev/null 2>&1
+  fi
+}
+
+kill_stale_listen() {
+  # Old Vite children can keep 4173 after npm exits.
+  if port_busy "$PORT"; then
+    pkill -f "vite .*--port ${PORT}" 2>/dev/null || true
+    pkill -f "vite --config .* --host .* --port ${PORT}" 2>/dev/null || true
+    sleep 0.5
+  fi
+}
+
+pick_port() {
+  kill_stale_listen
+  local p="$PORT"
+  local i=0
+  while port_busy "$p" && [[ $i -lt 20 ]]; do
+    if [[ -f "$PIDFILE" ]] && kill -0 "$(cat "$PIDFILE")" 2>/dev/null; then
+      echo "Already running (pid $(cat "$PIDFILE"))"
+      echo "Interface: $(user_url)"
+      exit 0
+    fi
+    p=$((p + 1))
+    i=$((i + 1))
+  done
+  PORT="$p"
+}
+
+stop_bg() {
+  if [[ -f "$PIDFILE" ]]; then
+    local pid
+    pid="$(cat "$PIDFILE")"
+    if kill -0 "$pid" 2>/dev/null; then
+      kill "$pid" 2>/dev/null || true
+      sleep 0.4
+      kill -9 "$pid" 2>/dev/null || true
+      echo "Stopped God's Eye View (pid $pid)."
+    else
+      echo "No running process for pid $pid."
+    fi
+    rm -f "$PIDFILE"
+  else
+    echo "Not running (no $PIDFILE)."
+  fi
+}
+
+status() {
+  if [[ -f "$PIDFILE" ]] && kill -0 "$(cat "$PIDFILE")" 2>/dev/null; then
+    echo "running pid=$(cat "$PIDFILE")"
+    echo "Interface: $(user_url)"
+    exit 0
+  fi
+  echo "stopped"
+  exit 1
+}
+
+link_path() {
+  mkdir -p "$HOME/.local/bin"
+  local dest="$HOME/.local/bin/godseye"
+  if [[ -e "$dest" || -L "$dest" ]]; then
+    rm -f "$dest"
+  fi
+  ln -s "$HUB/godseye" "$dest"
+}
+
+cmd="${1:-start}"
+case "$cmd" in
+  -h|--help|help) usage; exit 0 ;;
+  --stop|stop) stop_bg; exit 0 ;;
+  --status|status) status ;;
+  --bg|bg|start|"") ;;
+  *)
+    echo "unknown argument: $cmd" >&2
+    usage >&2
+    exit 2
+    ;;
+esac
+
+ensure_node
+export PATH="$NODE_DIR/bin:$PATH"
+ensure_clone
+ensure_deps
+link_path
+pick_port
+
+export HOST PORT
+export GEV_LAUNCHER="${GEV_LAUNCHER:-hub}"
+export GEV_ALLOW_FRAME="${GEV_ALLOW_FRAME:-1}"
+export GEV_PUBLIC_BASE="${GEV_PUBLIC_BASE:-/proxy/${PORT}/}"
+if [[ -n "${VSCODE_PROXY_URI:-}" && "${VSCODE_PROXY_URI}" == *"{{port}}"* ]]; then
+  export GEV_HMR_HOST="${GEV_HMR_HOST:-localhost}"
+  export GEV_HMR_CLIENT_PORT="${GEV_HMR_CLIENT_PORT:-8080}"
+  export GEV_HMR_PATH="${GEV_HMR_PATH:-/proxy/${PORT}}"
+  export GEV_HMR_PROTOCOL="${GEV_HMR_PROTOCOL:-ws}"
+fi
+
+cd "$APP"
+UI="$(user_url)"
+CEBU="${UI%/}/?welcome=0#v=2&lat=10.3307983&lon=123.9068258&alt=4500&heading=20&pitch=-55"
+
+echo
+echo "God's Eye View"
+echo "Interface: $UI"
+echo "Cebu IT Park: $CEBU"
+echo "Stop: Ctrl+C  (or: godseye --stop if started with --bg)"
+echo
+
+if [[ "$cmd" == "--bg" || "$cmd" == "bg" ]]; then
+  nohup npm run dev -- --config "$HUB/tools/godseye.vite.config.mjs" --host "$HOST" --port "$PORT" \
+    >"$LOGFILE" 2>&1 &
+  echo $! >"$PIDFILE"
+  echo "Background pid $(cat "$PIDFILE")  log $LOGFILE"
+  exit 0
+fi
+
+exec npm run dev -- --config "$HUB/tools/godseye.vite.config.mjs" --host "$HOST" --port "$PORT"

@@ -1,0 +1,1101 @@
+
+===== PAGE 1 =====
+USER GUIDE
+www.heliatek.com
+HELIASOL ® 436-2000-CFF
+EN
+===== PAGE 2 =====
+2
+Contact Information:
+Please visit our website www.heliatek.com or contact us directly:
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Tel: +49 (0) 351 213 034 30
+Mail: sayhello@heliatek.com
+Publishing Information:
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Document Version: HeliaSol 436-2000-CFF User Guide EN | REV: 05
+Published: December 2025
+Copyright by Heliatek GmbH. Heliatek ® and HeliaSol ® are registered trademarks of Heliatek GmbH.
+IMPORTANT
+Please read this User Guide fully before use and act accordingly. Always keep this User Guide 
+available for future references. Modifying Heliatek’s recommended steps may lead to endangerment 
+of life, physical health and loss of property to yourself or other parties. All risks mentioned in this 
+User Guide are not conclusive and do not preclude careful and cautious handling of the product. The 
+warranty conditions will be voided if the instructions of this User Guide are not strictly observed. 
+Always act according to your local regulations. Heliatek will not assume any liability for damage 
+arising from improper use, wrong assembly, operation, maintenance, removal, and disposal. In 
+case of doubt, the consent of Heliatek must always be obtained first. If you have any questions 
+or problems understanding any part of the User Guide, please contact us, before proceeding with 
+your actions.
+You find our contact information in this document and on our website: www.heliatek.com
+===== PAGE 3 =====
+3
+TABLE OF CONTENTS
+1 GENERAL INFORMATION
+2 SOLAR FILM SPECIFICATIONS 
+3 HANDLING AND STORAGE 
+ 3.1  PACKAGING            
+ 3.2 HANDLING AND STORAGE        
+4 INSTALLATION & OPERATION 
+ 4.1  SAFETY WARNINGS         
+ 4.2 WHERE TO INSTALL               
+ 4.3  SHADING CONSIDERATIONS                    
+ 4.4  HOW TO INSTALL                           
+ 4.5  WIRE MANAGEMENT 
+ 4.6  ELECTRICAL INTERCONNECTION 
+ 4.7  INVERTER COMPATIBILITY 
+ 4.8  EARTHING / EQUIPOTENTIAL BONDING
+ 4.9  FIRE RATINGS AND RESISTANCE TO EXTERNAL FIRE 
+5 MAINTENANCE
+ 5.1  SYSTEM INSPECTION 
+ 5.2  CLEANING 
+6 REMOVAL AND DISPOSAL  
+ 6.1  HOW TO REMOVE 
+ 6.2  DISPOSAL 
+APPENDIX 1: INSTALLATION CHECKLIST FOR HELIASOL
+APPENDIX 2: FLOWCHART FOR SELECTING ADHESION METHOD
+APPENDIX 3: HELIASOL ONSITE ADHESION TEST 
+4
+5
+7
+7
+8
+9
+9
+9
+16
+17
+23
+25
+27
+28
+28
+29
+29
+30
+31
+31
+32
+33
+35
+36
+===== PAGE 4 =====
+4
+1 GENERAL INFORMATION
+HeliaSol is an innovative organic solar film for the generation of electrical energy from sunlight, designed 
+and tested according IEC 61730:2016 class II, for an environmental temperature range of -40°C to 85°C. It 
+is a ready-to-install product, already equipped with a junction box and plugs on the front and an integrated 
+backside adhesive on the backside for quick and easy installation. Hereinafter HeliaSol is referred to as 
+solar film and describes the entire product.
+This User Guide shall give you all the information needed to handle HeliaSol properly and safely. You will 
+find all necessary information about safety, storage, installation, operation, maintenance, removal, and 
+disposal of the solar films in the following chapters. Please ensure that the User Guide is accessible and 
+that it is handed over to the specified person responsible for the operation of the system in the event of 
+a change of ownership or user.
+This User Guide does not describe the applicable guidelines for the design, approval, installation, and 
+operation of photovoltaic systems. Be sure to be compliant with all relevant local and national laws, 
+regulations, and codes when installing, wiring, operating, maintaining, and dispose of the solar films. 
+Please read the User Guide carefully and follow every single step as described, so that the solar films are 
+not experiencing any damage and no person(s) is exposed to the risk of injury. Please read all the other 
+applicable documents, such as the datasheet and warranty conditions. 
+Read each chapter carefully before following every single step, so you do not miss any safety information. 
+You can find the main safety instructions in section 4.1 and throughout the User Guide additionally marked 
+and highlighted.
+Heliatek is not liable for all those actions contrary to those granted in this User Guide, including without 
+limitation to improper storage, installation, operation, maintenance, removal, and disposal.
+ATTENTION
+The warranty conditions will be voided if the instructions of this document are not strictly observed. 
+Heliatek will not assume any liability for damage arising from improper use, wrong assembly, 
+operation, maintenance, removal, and disposal.
+===== PAGE 5 =====
+5
+2  SOLAR FILM SPECIFICATIONS
+For the electrical specifications please see the relevant datasheet or contact us directly:
+MECHANICAL SPECIFICATIONS
+Module Width 436 mm
+Module Length 2000 mm
+Thickness 2 mm (solar film)
+18.5 mm (solar film plus junction box)
+Minimum Bending Radius 50 cm
+(unidirectional curved surfaces only) 
+Module Weight 1.6 kg
+Load Ratings
+Design load:       ± 1600 Pa
+Test load:           ± 2400 Pa
+Safety factor:     1.5
+SYSTEM INTEGRATION
+Max. System Voltage 1000 V
+Bypass Diodes 1 per solar film
+Electrical Connection LEADER connector, PV-BN101B connectors
+46 cm cable length
+Class II (IEC 61140)  
+Junction Box IP67
+Inverter Recommendation
+Compatibility with all mainstream inverters.
+Parallel and serial connection of the solar films is allowed within 
+the range of system voltage and considering the max. ratings of all 
+system components. 
+More details in section 4.6 and 4.7 .
+===== PAGE 6 =====
+6
+TECHNICAL DRAWING
+PRODUCTS RELATED TO THIS USER MANUAL
+For further information please see the relevant datasheet or contact us directly.
+/uni0031/uni0038/uni0038/uni0035/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0030/uni0030/uni0030/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0020/uni006D/uni006D
+/uni0031/uni0038/uni002E/uni0035/uni0020/uni006D/uni006D
+/uni0050/uni0072/uni006F/uni0064/uni0075/uni0063/uni0074/uni0020/uni004C/uni0061/uni0062/uni0065/uni006C
+HeliaSol 436 - 2000
+Electrical data measured at standard test conditions (STC: 1000 W/m2, AM1.5, 25°C)
+Prototype for testing purposes exoluslvely, no commerical use
+PMAX  = XX W ± 10%
+VOC   = XX.X V ± 10%
+ISC      = X.XX A ± 10%
+Measurement tolerance of ISC, VOC and PMAX does not exceed ±10%        Scan for S/N
+Maximum system voltage: below 50 V  Minimum bending radius: 20cm
+Maximum reverse ourrent: 2x ISC     S/N 204352379000711
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Made in Germany
+/uni0031/uni0038/uni0038/uni0035/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0030/uni0030/uni0030/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0020/uni006D/uni006D
+/uni0031/uni0038/uni002E/uni0035/uni0020/uni006D/uni006D
+/uni0050/uni0072/uni006F/uni0064/uni0075/uni0063/uni0074/uni0020/uni004C/uni0061/uni0062/uni0065/uni006C
+HeliaSol 436 - 2000
+Electrical data measured at standard test conditions (STC: 1000 W/m2, AM1.5, 25°C)
+Prototype for testing purposes exoluslvely, no commerical use
+PMAX  = XX W ± 10%
+VOC   = XX.X V ± 10%
+ISC      = X.XX A ± 10%
+Measurement tolerance of ISC, VOC and PMAX does not exceed ±10%        Scan for S/N
+Maximum system voltage: below 50 V  Minimum bending radius: 20cm
+Maximum reverse ourrent: 2x ISC     S/N 204352379000711
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Made in Germany
+The information mentioned in this User Guide is relevant for the following models of HeliaSol 436-2000:
+ 
+• HeliaSol 436-2000-CFF-45
+• HeliaSol 436-2000-CFF-50
+• HeliaSol 436-2000-CFF-55
+Top View
+Side View
+===== PAGE 7 =====
+7
+3 HANDLING AND STORAGE
+The solar films are delivered as rolls in carton boxes. The packaging shall keep the solar films safe and 
+prevent external exposure during the delivery.
+3.1  PACKAGING
+The dimension of each carton box is (LxWxH) 800 mm x 600 mm x 450 mm. One carton box contains 12 
+solar films. The solar films are rolled in one big circle with their junction boxes to the outside. The solar 
+films are covered by an opaque liner on the backside. 
+It is possible to safely stack up a max. of 4 boxes on one wooden standard INKA-palette, stretched film is 
+used to wrap the boxes on the palette. Do not stack pallets on top of each other.
+/uni004D/uni0041/uni0058/uni003A/uni0020/uni0034/uni0020/uni0042/uni004F/uni0058/uni0045/uni0053
+/uni0044/uni004F/uni0020/uni004E/uni004F/uni0054/uni0020/uni0053/uni0054/uni0041/uni0043/uni004B/uni0020/uni0050/uni0041/uni004C/uni004C/uni0045/uni0054/uni0053/uni0021/uni0021/uni0021/uni0038/uni0030/uni0030/uni0020/uni006D/uni006D
+/uni0038/uni0030/uni0030/uni0020/uni006D/uni006D
+/uni0036/uni0030/uni0030/uni0020/uni006D/uni006D
+/uni0053/uni0049/uni0044/uni0045/uni0020/uni0056/uni0049/uni0045/uni0057/uni0020/uni002D/uni0020/uni004C/uni0045/uni004E/uni0047/uni0054/uni0048
+/uni0054/uni004F/uni0050/uni0020/uni0056/uni0049/uni0045/uni0057/uni0020/uni0049/uni004E/uni0053/uni0049/uni0044/uni0045
+/uni0053/uni0049/uni0044/uni0045/uni0020/uni0056/uni0049/uni0045/uni0057/uni0020/uni002D/uni0020/uni0057/uni0049/uni0044/uni0054/uni0048
+===== PAGE 8 =====
+8
+3.2  HANDLING AND STORAGE
+Unloading pallets from the truck should be done with a forklift. Check for damages of boxes carefully and 
+claim if necessary, to the carrier.
+Store them in a dry and ventilated warehouse-type facility, for protection from high temperatures and 
+exposure to direct sunlight and moisture. The solar films should not be stored in areas with temperatures 
+exceeding 25 °C. Keep the protective film wrapped around the shipment for better protection.
+Transport the boxes close to the installation site and take out the solar films when everything is ready for 
+installation. Lift and carry boxes with at least two persons.
+Do not hold, carry, or lift solar films by the junction boxes or wires.
+Unpack carefully, do not use sharp objects or tools (e.g. knives or scissors) to open the boxes. Take out 
+only the solar films that are ready to be installed.
+Separate packaging material (cardboard, liner films, roll straps) for recycling or disposal according to local 
+regulations.
+ 
+===== PAGE 9 =====
+9
+4 INSTALLATION & OPERATION  
+ 
+ 
+Only people who have read and understood the entire User Guide shall install, operate, maintain, or re-
+move the solar films or systems.  
+ 
+ 
+4.1  SAFETY WARNINGS
+HeliaSol 436-2000 generates above 55 V and 1.6 A when exposed to sunlight. Single 
+solar films can create a shock hazard. Multiple interconnected solar films can create 
+a lethal shock hazard during daylight hours, including periods of low light levels. The 
+danger increases as solar films are connected together in series and/or parallel
+To avoid damages, injury, fire, or any kind of malfunction, please comply with all the safety instructions 
+throughout the User Guide and the following:
+  • Do not disconnect the solar films while under load.
+  • Do not disconnect the solar film connectors during daylight hours unless the solar film is in  
+   an open circuit condition.
+  • Solar films with damaged wires must be taken off the system immediately. 
+  • Only apply the solar films in the specified areas of application described in section 4.2.
+In the event of fire, dry powder or CO 2 based fire-extinguishers should be used.
+ 
+4.2  WHERE TO INSTALL
+HeliaSol comes with an integrated backside adhesive (peel & stick) and can thus be installed on a wide 
+range of materials:
+  • Glass
+  • Concrete, fiber cement
+  • Uncoated aluminum, stainless steel, copper
+  • Metal substrates coated with polyethylene (PE) or polyvinyl fluoride (PVF)
+  • Bitumen (after the application of a primer)
+  • Acrylic glass (polymethyl methacrylate, PMMA)
+ATTENTION
+Any kind of manipulation of the solar film will void the warranty and bears the risk of damage to 
+property, health, and life!
+===== PAGE 10 =====
+10
+The certification tests for IEC 61730 & IEC 61215 have been performed on metal substrate. In addition, 
+all substrates listed above and described in the sections below (including the primer sections) are 
+qualified by extensive testing methods by Heliatek, including long-term climate chamber tests at elevated 
+temperatures and humidities, to ensure long-term adhesion stability between substrate material and 
+HeliaSol. Heliatek can test other materials or surfaces and qualify them for the adhesion of HeliaSol 
+upon request at support@heliatek.com. HeliaSol has a projected power production service life of 20 
+years. Please ensure that the mounting roof substrate has a remaining service life of at least 20 years. In 
+addition, the substrate must be able to withstand the forces that occur during the installation of HeliaSol, 
+and it must not crack or break during this process. HeliaSol is designed for up to 1000 V systems and can 
+be installed at altitudes up to 2000 m above see level per IEC 61730. HeliaSol is not suited to be installed 
+on moving objects, such as vehicles.
+The backside adhesive of HeliaSol is qualified for a firm, long-term adhesion. The mounting surface must 
+be clean and dry - free from dirt, moisture, dust, oil, grease, adhesives, or other contamination, which can 
+prevent or affect the firm adhesion of the solar film on the mounting surface. If the mounting surface is 
+dirty, clean with material/surface specific cleaning products.  
+The mounting surface must be flat or bent on one axis and with a minimum bending radius of 50 cm. The 
+substrate must always be solid and load-bearing, free of damage, corrosion, or degradation, and must be 
+pre-treated for bonding in accordance with the installation instructions (section 4.4). In case of copper 
+substrates, patina is not expected to affect the adhesion of HeliaSol on to the substrate.
+The mounting surface on which HeliaSol is fixed must have an inclination of min. 1° and max. 90° (façade)
+to ensure that water (e.g. rainwater) can run off the solar film. Choose the location of the installation in 
+accordance to avoid HeliaSol be immersed in water or exposed to water streams. The solar film direction 
+must be selected so that rainwater or snowdrifts do not collect around the junction boxes. 
+ATTENTION
+Never apply paint, adhesives, or chemicals to the solar film.
+Any application and fastening techniques other than using the adhesive film applied on the back 
+require the express consent of Heliatek.
+ATTENTION
+If HeliaSol is to be used on a flexible substrate, do not affix the solar film and then bend the 
+substrate. 
+HeliaSol must always be installed on substrates with a fixed curvature, which is retained over the 
+lifetime of the product/project.
+===== PAGE 11 =====
+11
+The certification tests for IEC 61730 & IEC 61215 have been performed on metal substrate with a full 
+(100%) coverage of the backside adhesive tape to the substrate. In addition, Heliatek has tested and 
+qualified modules for installation on corrugated (trapezoidal) metal sheets. In this case a symmetrical 
+coverage of 60 % or more of the backside adhesive tape to the substrate is required.
+The module shall be installed, in a way that two edges and all corners are entirely fixed on metal surface 
+(lengthwise or crosswise to trapezoids). The Junction box  must also be placed directly on metal surface. 
+If your solar project requires the bonding of HeliaSol with less than 60% of its rear area or against any of 
+the above requirements, please contact Heliatek for individual support at support@heliatek.com.
+The module must not be deformed or glued under tension by raised beads in the sheet metal or over sharp 
+edges such as nails or screws, under no circumstances. Do not install HeliaSol above expansion gaps. In 
+the case of single-ply membrane roofs, install HeliaSol at a 2 mm distance from the seam edge welds. 
+ 
+ 
+ATTENTION
+The concentration of sunlight on the solar film surface by mirrors or other means is not permitted. 
+It must be ensured that parts of the building or technical installations in the vicinity do not have 
+such a side effect on the solar film.
+
+===== PAGE 12 =====
+12
+Substrate Type Concrete
+Primer Tesa 60153 3M Primer94
+Type Liquid
+Preparation Ready to use
+Application Apply primer with a brush
+Drying Time 1-5 mins
+(depending on ambient conditions)
+Quantity 50-100 ml/m²
+(depending on surface roughness and porosity)
+Using HeliaSol on Bitumen 
+Due to the rough surface of bitumen, a primer must be applied prior to the application of HeliaSol (See 
+Appendix 2). 
+The right choice of the Bitumen primer strongly depends on the specific Bitumen type used. We recommend 
+preparing a small test area with the primer of your choice, followed by application of our adhesion test 
+kit (See Appendix 3). There are a variety of primers that can be used for this purpose. Two examples of 
+tested primers recommended by Heliatek and available for purchase are shown in the table below. For 
+more information and to obtain our test kit, please contact Heliatek at support@heliatek.com.
+A covering of the inactive edge is permissible, as long as it is ensured that the edge cells are not partially 
+or completely covered in a longitudinal direction and no significant shading of individual cells is caused 
+by the shape and height of the cells. The cover must not cause mechanical damage, dents, scratches, 
+or pressure on the solar film. In addition, the cover must be in a shape that water does not collect on the 
+solar film surface.
+Using HeliaSol on Concrete 
+Sandy substrates (e.g. old plaster façades) or surfaces with paint flaking or corrosion are not suitable for 
+installation. For specific materials with a rough surface, such as concrete, the application of a primer is 
+required prior to the adhesion of HeliaSol (see Appendix 2). 
+Below you can find recommended primers and their application procedures for installing He-
+liaSol on concrete substrates. For more information or support, please contact Heliatek at  
+support@heliatek.com.
+If concrete is already covered with paint, this may serve as a primer already. In this case, please check the 
+feasibility with the test kit (see Appendix 3).
+===== PAGE 13 =====
+13
+Substrate Type Bitumen
+Primer Bostik BLOCK B732 TOP BOND Sika MasterSeal 6100FX
+Type Bitumen -based Concrete - based
+Preparation Ready to use Mix with water (2.5:1)
+Substrate Pre-treatment Apply a new and dry layer of bituminous coating
+Application Apply primer with a brush
+Smoothening Brush with water after ~1h
+Drying Time 24h (sunny day) / 48h (cloudy weather, no rain)
+Quantity 0.7 kg/m² 0.8-1 kg/m²
+Using HeliaSol on Bitumen with Triflex ProDetail
+HeliaSol can be adhesively applied to various substrates such as bitumen using Triflex 
+ProDetail liquid waterproofing. ProDetail is a PMMA-based waterproofing solution and can be
+obtained directly from the manufacturer Triflex. Adhesion of ProDetail has been successfully tested 
+by Triflex on a large variety of different substrates. Adhesion of HeliaSol on ProDetail Primer has been 
+successfully qualified by Heliatek.
+The combination of Triflex ProDetail and HeliaSol offers a one-stop solution and will be carried out by a 
+Triflex certified Installer. For more information, please contact Triflex by email at info@triflex.de.
+Substrate Type Bitumen and Membrane
+Primer Triflex ProDetail
+Type Liquid
+Preparation Ready to use
+Application Apply primer with a brush
+Drying Time 45 mins
+(depending on ambient conditions)
+Quantity 1.6 kg/m²
+(depending on surface roughness and porosity)
+ATTENTION
+• HeliaSol must adhere to 100% of the substrate area with Triflex. Partial adhesion is not permitted.
+• Any surface topologies must be compensated by application of Triflex ProDetail to yield a 
+smooth surface before installation of HeliaSol.
+• Installation is only permitted on flat roofs with an inclination angle of <5° and on roof substrates 
+with a uniaxial bending radius > 10m.
+• Installation must be carried out by trained personnel only.
+===== PAGE 14 =====
+14
+The liquid Triflex ProDetail is rainproof after approx. 30 minutes and completely cured in approx. 45 
+minutes. Repairs can therefore be reliably carried out in all weather conditions. More detail can be found 
+on the Triflex website.
+The installation steps for applying HeliaSol using Triflex ProDetail are as follows:
+1. The substrate must be clean, dry and free from dust, oil, grease and other contaminants that may 
+impair adhesion. Clean the surface if necessary.
+2. Apply Triflex ProDetail in accordance with the manufacturer‘s installation instructions. Pay particular 
+attention to the pre-treatment of the substrate and the consumption rate of approx. 1.6 kg/m 2.
+3. Allow Triflex to dry completely.
+4. Install HeliaSol based on section 4.4. 
+
+===== PAGE 15 =====
+15
+Using  HeliaSol on membranes
+Heliatek has tested the adhesion of HeliaSol on various membrane types such as: 
+ • PVC (polyvinyl chloride)
+ • TPO (thermoplastic polyolefins)
+ • FPO (flexible polyolefine)
+ • EPDM (ethylene propylene diene rubber)
+ • ETFE (ethylene-tetrafluoroethylene copolymer)
+Based on these tests, adhesion of HeliaSol will not work on ETFE-based substrates, due to the intrinsic 
+self-cleaning and soil-repelling properties of ETFE. 
+For all other membrane types, long-term adhesion of HeliaSol on these membrane substrates is strongly 
+dependent on the condition and type of the membrane, especially their surface treatment. Many kinds of 
+variants exist which makes it impossible to give a clear list of qualified materials. However, a few general 
+recommendations can be given: 
+• For freshly installed membranes, degassing of softeners contained in the membrane materials 
+typically react with the film’s adhesive tape and affect its adhesion, so long-term adhesion cannot 
+be guaranteed. Use the adhesion test kit (see below) to check for sufficient initial adhesion to 
+HeliaSol. If successful, contact Heliatek at support@heliatek.com to discuss long-term tests.
+• Adhesion on membranes which have been exposed to the outdoor weather conditions for more 
+than 2 years is expected to work without problems. For example, a TPO membrane roof which has 
+been installed more than 2 years ago typically yields sufficient adhesion to HeliaSol as the softeners 
+have been outgassed over time. Use the adhesion test kit (see below) to check for sufficient initial 
+adhesion to HeliaSol and proceed with the project if test was successful.
+• For any membrane substrate, use our Heliatek adhesion test kit to check the compatibility of 
+HeliaSol adhesive tape with the targeted substrate. The procedure is described in Appendix 3 of 
+the user guide and should be applied before planning / installing the solar project. Kits are provided 
+by Heliatek, please contact support@heliatek.com.
+Using HeliaSol on Membrane with Triflex ProDetail
+The combination of Triflex ProDetail and HeliaSol offers a one-stop solution for many membrane substrate 
+types. Application is similar as described before for bitumen substrates. (see Using HeliaSol on Bitumen 
+with Triflex ProDetail)
+===== PAGE 16 =====
+16
+ATTENTION
+Do not place objects on the solar film, e.g. tools, cleaning equipment.
+4.3  SHADING CONSIDERATIONS
+Specific shading patterns can cause reverse-bias conditions in the solar film which may affect its 
+performance and in extreme cases it can cause local burns on the solar film surface. To avoid this, and 
+during the project lifetime, the following information must be taken into consideration when selecting the 
+installation location, inclination, and orientation regarding shading:
+• Shading parallel to the solar cells (longitudinal stripes) in  
+ the solar film can lead to permanent power loss of the  
+ associated string during operation and cause serious  
+ damage to the solar film.
+• Stable objects at close range (up to 10 m) whose shadows  
+ run along with the solar cells in parallel (parallel shading)  
+ must be avoided.
+• Mobile objects at close range (up to 10 m), such as persons,  
+ vehicles, or cleaning equipment must be avoided.
+• Diffuse shading from objects in a distance greater than 10 m  
+ carries only a low risk of damage but should be avoided.
+• Partial shading of solar films in a series connection can lead 
+ to permanent damage to the solar film. 
+• There is no risk due to shading while the solar film is at open- 
+            circuit condition.
+Beads or profiles located to the side of HeliaSol can lead to the parallel shading of solar film, and this must 
+be avoided.
+ATTENTION
+Parallel shading
+must be avoided
+===== PAGE 17 =====
+17
+4.4  HOW TO INSTALL
+Everyone involved in the installation must be informed about the safety instructions before unpacking, 
+transporting, and installing the solar film. Select your personal protective equipment based on work 
+consistent with local and/or national standards. The solar film shall be installed in a non-wired state. Only 
+install new and undamaged solar films.
+To minimize the possibility of accidental risk of damages, health & life and for a safe installation of HeliaSol 
+please make sure that the following conditions of the installation area are present:
+ 1. Weather – dry, no rain, no snowing, no strong wind, and substrate temperatures above  
+  8 °C. Solar films and tools should not be exposed to moisture or rain at any time during the  
+  installation. 
+ 2. Always wear insulating gloves and safety shoes (with rubber soles) when working with  
+  solar films or system components. Select your personal protective equipment based on  
+  work consistent with local and/or national standards. Secure the work area against access  
+  by uninvolved persons before starting work. Use only dry insulated tools.
+3. The following tools, are recommended for the installation of HeliaSol:
+• Marker
+• Yardstick/Ruler
+• Bin for collecting the protection liners and packaging
+• Installation kit which is provided by Heliatek, including:
+* Roller with 45 cm width for solar film lamination (A)
+* Small roller with up to 10 cm width for finishing (B)
+* Liner remover (C)
+* Unlock tool for connectors (D)
+
+===== PAGE 18 =====
+18
+ATTENTION
+Do not use any sharp tools and do not place the solar films face-down in direct contact with 
+abrasive surfaces. Danger to scratch the solar film surface.
+Avoid stepping or walking on the solar film. Danger to scratch the solar film surface.
+Do not cut, penetrate, or mechanically process/modify the solar film.
+ 
+Do not leave objects (such as tools, etc.) on the solar film.
+Handle the solar film with care, and do not expose it to mechanical stress. Do not hold, carry, or lift 
+solar film by the junction boxes or cables.
+Do not short-circuit the solar films by connecting its connectors to each other.
+
+===== PAGE 19 =====
+19
+INSTALLATION OF HELIASOL ON A FLAT OR SLIGHTLY TIL TED ROOF
+1.  Prepare the mounting surface for the installation of HeliaSol. 
+ Ensure that the mounting surface is clean and dry - free from  
+ dirt, moisture, dust, oil, grease, adhesives, or other contamination,  
+ which can prevent or affect the firm adhesion of the solar film on  
+ the mounting surface. If the mounting surface is dirty, clean with  
+ material/surface specific cleaning products. 
+2.  Place the solar film for an alignment test on the position to be 
+installed.
+ Align the solar film and use a marker to mark the position of the  
+ corners and sides of the solar film. Ensure that the solar films are  
+ aligned parallel to each other to avoid an overlap of the modules.  
+ We recommend leaving a distance of at least 5 mm between the  
+ modules to compensate for slight tilts after fixing of the first part  
+ of the module (see point 4 below). Do not remove the protective  
+ liners yet. 
+3.  Remove the backside protection liner and check solar film 
+alignment
+ Start from the solar film edge opposite to the junction box. Peel  
+ off the backside protection liner for about 30 cm (12 inches),  
+ starting from one corner. Check solar film alignment according  
+ to your marks. Place the solar film with the revealed adhesive area  
+ towards the mounting surface.
+1
+2
+3
+ATTENTION
+Once the solar film is fixed on the mounting substrate, any position correction is not possible 
+without damaging the solar film.
+Ensure that the solar film is aligned with the marks and slightly press the solar film edges with your hand 
+towards the mounting surface, to fix it at the correct position.
+===== PAGE 20 =====
+20
+4.  Fix HeliaSol on the mounting surface, starting from the side 
+opposite to  the junction box. 
+ Use a silicone roller to fix the revealed adhesive area (approximately  
+ 30 cm or 12 inches) of the solar film on the substrate, working from  
+ the middle of the film towards the edges, to ensure that there is no  
+ air trapped under the solar film.   
+5. Remove the backside protection liner carefully and work towards 
+the junction box.
+ Remove the backside protection liner for another 20 cm (8 inches).  
+ Use a silicone roller to fix this part of the solar film on the substrate.  
+ Make sure the solar film is evenly fixed on the surface by moving  
+ the silicon roller over the entire solar film width, and that the silicon  
+ roller always gives the first contact of the solar film to the surface. 
+ Work towards the junction box. Repeat step 5 until the solar film  
+  area around the junction box is reached. 
+6. Fix the junction box and the remaining solar film area on the mounting surface. 
+Press firmly the junction box with your hand to fix it on the mounting surface. Use the small silicon 
+roller to fix the remaining solar film area around the junction box, starting from the solar film area that is 
+adhered to and working towards the edges to avoid any air trapped under the solar film. Your HeliaSol 
+is ready for use.
+4
+5
+6
+===== PAGE 21 =====
+21
+INSTALLATION OF HELIASOL ON FAÇADE OR STEEP ROOF
+1.  Prepare the mounting surface for the installation of HeliaSol. 
+ Ensure that the mounting surface is clean and dry - free from  
+ dirt, moisture, dust, oil, grease, adhesives, or other contamination,  
+ which can prevent or affect the firm adhesion of the solar film on  
+ the mounting surface. If the mounting surface is dirty, clean with  
+ material/surface specific cleaning products. 
+2.  Place the solar film for an alignment test on the position to be 
+installed.
+ Align the solar film and use a marker to mark the position of the  
+ corners and sides of the solar film. Multiple solar films should be  
+ parallel to each other, with a 5 mm distance between their edges.  
+ Do not remove the protective liners yet. 
+3.  Remove the backside protection liner and check solar film 
+alignment
+ Start from the solar film edge hosting the junction box. Peel off the  
+ backside protection liner for about 30 cm (12 inches), starting from  
+ one corner. 
+1
+2
+3
+===== PAGE 22 =====
+22
+44.  Place and align HeliaSol on the mounting surface. Fix the edges 
+and the junction box. 
+ Place the solar film on the mounting surface with the revealed 
+adhesive area oriented towards the mounting surface. Both 
+horizontal and vertical arrangement are allowed and you can either 
+have the junction box oriented upwards or downwards.
+ Ensure that the solar film is aligned with the marks and slightly  
+ press the solar film edges with your hand towards the mounting  
+ surface, to fix it at the correct position.
+ In case of junction box oriented upwards, press firmly the junction  
+ box with your hand to fix it on the mounting surface.
+5. Fix the edge of HeliaSol on the mounting surface.
+ Use a small silicone roller to fix the revealed adhesive area  
+ (approximately 30 cm or 12 inches) of the solar film on the  
+ substrate. 
+ Work from the middle of the film towards the edges, to ensure that  
+ there is no air trapped under the solar film. 
+4
+4
+5
+ATTENTION
+If during the installation you notice that a solar film is misaligned compared to the desired position, 
+do not try to correct its position. Once the solar film is fixed on the mounting substrate, any position 
+correction is not possible without damaging the solar film.
+===== PAGE 23 =====
+23
+6.  Remove the backside protection liner carefully and fix the solar 
+film on the mounting surface. 
+ Carefully remove the backside protection liner for another 20 cm  
+ (8 inches). Starting from the fixed edge, use a silicone roller to fix  
+ the rest of the solar film on the substrate. A second person can  
+ take care to keep the exposed part of the adhesive tape away  
+ from the mounting surface.
+ Repeat step 6 until the solar film is fixed entirely. Make sure that  
+ the silicon roller always gives the first contact of the solar film to  
+ the surface. Make sure the solar film is evenly fixed on the surface  
+ by moving the silicon roller over the entire width. Your HeliaSol is 
+ready for use.
+ 
+6
+Electrical Installation - General Information
+HeliaSol is defined and manufactured with protection class II according to IEC 61140 and a maximum 
+system voltage of 1000 VDC. All electrical components that are interconnected to the solar films must 
+match these conditions. 
+4.5  WIRE MANAGEMENT
+All wire management must comply with the applicable local 
+requirements (i.e.  IEC codes and standards) for maintaining and 
+managing wires. HeliaSol is equipped with a Zhejiang Boneng New 
+Energy Technology, PV-BN221B junction box which must only be 
+connected with Leader Technology, PV-BN101B connectors. The 
+junction box contains bypass diodes. If the solar films are connected 
+incorrectly, damage can be done to the diodes. Pairing with 
+connectors of other manufacturers is not permitted, even if the other 
+manufacturer assures compatibility.
+/uni0050/uni0056/uni002D.case/uni0042/uni004E/uni0031/uni0030/uni0031/uni0042
+/uni0050/uni0056/uni002D.case/uni0042/uni004E/uni0031/uni0030/uni0031/uni0042
+/uni0050/uni0056/uni002D.case/uni0042/uni004E/uni0031/uni0030/uni0031/uni0042
+/uni004F/uni0054/uni0048/uni0045/uni0052/uni0053
+===== PAGE 24 =====
+24
+For use in solar systems suitable cables with a conductor cross-section of 2.5 mm² to 4 mm² must be used 
+as connecting cables, which correspond to the ambient conditions, the current rating, and the system 
+voltage range of given solar films. The permissible conductor cross-sections and cable outer diameter 
+ranges of the connector type as well as the installation instructions of the connector manufacturer must 
+be observed.
+When laying the connecting cables, a minimum bending radius of 40 mm must be observed and  
+permanently secured with suitable cable fixings. The cable routing must be secured by strain reliefs in 
+such a way that no mechanical stresses or other stresses are exerted by the cable on the junction boxes 
+or the solar film. The cables must be fixed mechanically between the junction box and the nearest bend 
+of the cable on the substrate, cable duct, or other construction elements with sufficient stability. Do not 
+open the junction box.
+ATTENTION
+Ensure connectors are fully locked and mated. Do not loosen, alter, or modify the factory-installed 
+connectors on the junction box. Do not attempt to open or remove the junction box from the solar 
+film.
+Ensure that the connectors remain clean and dry until the connection is closed. The use of dust 
+caps is recommended if the connectors are to remain open. 
+Contamination can cause fires. Ensure that the connectors are protected from dirt and moisture 
+during the time between transport to the installation site and the electrical connection.
+
+===== PAGE 25 =====
+25
+ 
+All cables must be routed and fastened in cable ducts, cable protection conduits, or according to local 
+regulations in such a way that they:
+• Do not pose a trip hazard.
+• Are well protected against accidental or deliberate damage.
+• Are effectively protected against animal bites, insofar as this danger is to be expected at the  
+ installation site.
+• Are protected against direct sunlight.
+• Are protected against standing water.
+4.6  ELECTRICAL INTERCONNECTION
+HeliaSol can be connected in parallel to increase the system current and/or in series to increase the system 
+voltage. Pairing with connectors of other manufacturers is not permitted, even if the other manufacturer 
+assures compatibility.
+System derating factors
+Under normal conditions, a photovoltaic module is likely to experience conditions that produce higher 
+current and/or voltage than reported at standard test conditions. Accordingly, the values of I SC and V OC 
+marked on a PV module should be multiplied by a factor of 1.25 when determining component voltage 
+ratings, conductor current ratings, and size of controls (e.g. inverter) connected to the PV output. The 
+safety factor of 1.25 for the minimum voltage rating of the components can be modified during the design 
+of a system according to the minimum temperature of the location of the installation and the temperature 
+coefficient for V OC. ISC can be adjusted based on maximal temperature, irradiance, and orientation of the 
+module. To this end, a full simulation for the specific location is recommended using long term weather 
+data.
+ATTENTION
+Do not short-circuit the solar films by connecting its connectors to each other.
+===== PAGE 26 =====
+26
+Series connection
+To connect solar films in series, connect the cables 
+from the negative connector of the first solar film 
+to the positive connector of the second solar film, 
+and so on. 
+When designing a system with multiple solar films 
+connected in series, make sure that the maximum 
+permissible system voltage specified on the 
+nameplate or in the datasheet is not exceeded, 
+taking into account all possible operating 
+conditions, including the temperature coefficient, 
+and the minimum ambient temperature. 
+Taking into account the 1.25 safety factor, the maximum number of modules n that can be connected in 
+series within the specified maximum system voltage V sys can be calculated as:
+n = Vsys / (1.25 · Voc)
+Example
+For HeliaSol 436-2000-CFF-55 (V OC = 56.1V , Vsys = 1000V), the maximum number n of modules connected 
+in series equals to:
+n = 1000V / (1.25 · 56.1V) = 14 modules
+Parallel connection 
+The low string current of HeliaSol® makes it possible 
+to connect multiple strings together in parallel and 
+return a single pair of DC cables to the combiner 
+box or string inverter. Parallel strings should have 
+similar voltages, which is achieved by installing an 
+equal number of solar films of the same type. 
+Reverse currents can lead to solar film failure, 
+which can lead to fire, open electricity, or similar 
+hazards. Thus, it is important to not exceed the 
+maximum reverse current, stated in the nameplate 
+or the datasheet. Situations with reverse current 
+can be avoided with a proper system design and/or 
+the use of reverse current protection fuses. 
+===== PAGE 27 =====
+27
+Furthermore, for the layout of the connection cables, the total currents must be taken into account, 
+taking into consideration the maximum ambient temperature and the short circuit current I sc including its 
+temperature coefficient, and/or a safety factor of 1.25.
+Taking into account the 1.25 safety factor, the maximum number of strings n that can be connected in 
+parallel within the specified maximum overcurrent protection rating OCR and without additional safety 
+measures (i.e. fuses) can be calculated as:
+n < OCR / (1.25 · I SC) + 1
+Example
+For HeliaSol 436-2000-CFF-55 (I SC = 1.63A, OCR = 2.7 A), the maximum number n of strings connected in 
+parallel can be estimated as:
+n < 2.7 A / (1.25 · 1.63A) + 1 = 2.32 
+ n = 2 strings in parallel (without using fuses)
+4.7  INVERTER COMPATIBILITY
+For installation on non-grounded substrates (e.g. membranes, concrete, bitumen), a wide range of string, 
+central, transformer and transformerless inverters can be used with HeliaSol, ensuring that the inverter‘s 
+extreme (minimum/maximum) parameters are not exceeded. 
+For installation on grounded conductive substrates (e.g. metal), Heliatek recommends the use of inverters 
+with transformers and galvanic isolation or three-phase inverters. If available, the use of inverters with H5 
+or HERIC topology is beneficial. The maximum coupling capacity of the inverter must be taken from the 
+operating instructions of the inverter. For HeliaSol, a dry state parasitic capacitance of 15 nF/m² must be 
+assumed in connection with a conductive substrate under unfavorable conditions.
+Example
+If Coupling Capacitance for one inverter is X uF then the number n of HeliaSol 436-2000-CFF-55 modules 
+that can be installed with this inverter should be less than:
+n < X · 1000 / ( 15 · 0.872)
+It should be taken into account when designing the system, deciding the inverter type (with transformer 
+or transformerless), and/or the installation substrate. Heliatek has prior experience and recommends the 
+use of inverters from the following brands: SMA, SolarEdge, Fronius, AEConversion, Huawei, Kaco, Kostal.
+In more detail with regard to the inverter type:
+1. Transformerless inverters:
+ Transformerless inverters are currently one of the most common solution for scalable solar system,   
+ however, its smaller size and weight comes with no galvanic isolation to the AC-DC side. 
+===== PAGE 28 =====
+28
+ This has the following implications:
+ 
+   • Almost all 1-phase transformerless inverters pass half the grid amplitude to the PV field.
+   • With 3-phase transformerless inverters, the amplitude of the oscillations is usually  
+    significantly lower. 
+   • The voltage fluctuations transferred can lead to leakage currents and changed behavior  
+    with regard to residual current monitoring. If this is not accounted for in the system design,  
+     the system’s inverter can be in shutdown due to this issue.
+2. Inverter with a transformer:
+ Due to the galvanic isolation, the voltage in the PV generator only oscillates by „a few volts“ here, i.e.  
+ much smaller than for transformerless inverters. However, the implications are still the same: in the  
+ case of a too large built-up capacitance, a leakage current measurement generates a faulty  
+ value which results in a temporary shutdown of the inverter. To avoid this temporary loss of yield,  
+ the system wiring must be designed according to the capacitive maximum value of the inverter.  
+ Inverters with a transformer usually allow to design systems with significantly larger capacitive value  
+ than for transfomerless inverters. 
+4.8  EARTHING / EQUIPOTENTIAL BONDING
+HeliaSol solar films do not have metallic frame or external metallic 
+parts and, therefore, do not require earthing or equipotential bonding. 
+Connection boxes and metal conduits should be connected to the 
+ground as lightning protection, in accordance with local, regional, and 
+national standards and regulations. Refer to your local authority for any 
+code requirements that may be required in the installation jurisdiction. 
+4.9  FIRE RATINGS AND RESISTANCE TO EXTERNAL FIRE
+Be sure to be compliant with all relevant local and national laws, regulations, and codes related fire 
+resistance before installing the solar films.
+The solar films are tested and rated according to the following standards, in combination with Metal 
+substrates with a melting point equal to or higher than 500 °C: 
+•  UL 61730-02 (UL 790) class C 
+•  EN 13501-1 Class E (resistance to other external fire sources not evaluated).
+•  EN 13501-5 Broof(t1) (valid for roof pitches < 20°).
+All tests have been performed at the Fire Laboratory of MPA Dresden GmbH.
+===== PAGE 29 =====
+29
+5  MAINTENANCE
+ 
+To ensure a safe and effective operation of the installation, the solar films must be carefully and properly 
+inspected, cleaned, and maintained within regular intervals or after special conditions have been met (e.g. 
+extreme weather conditions).
+If the calculated yield is not met by the measured numbers you may start by troubleshooting the most 
+common causes: inverter issues, miscalibrated or malfunctioning monitoring devices, wrong wiring or 
+electrical connection, shading or partial shading, dirt, and soiling on the solar film surface, snow or other 
+substances/materials covering the solar film.
+HeliaSol is a one-piece product whose parts cannot be replaced individually. If the inspection results in 
+detecting that one part of the solar film is damaged or defective, the whole solar film must be safely taken 
+off the system and be replaced. All additional parts to the solar film to integrate it into the system are 
+subject to the regulations and maintenance requirements of the respective manufacturer.
+5.1  SYSTEM INSPECTION
+For all installations, a regular (visual) inspection for damages or unwanted changes, which may result in 
+the damage of the solar films, is required at least every 12 months. 
+Additionally, the system must be checked:
+  • If the inverter displays error messages indicating solar film faults or if the performance of  
+   the system appears to be declining considerably.
+  • After extreme weather events (sandstorm, heavy hail, heavy rain, flooding, etc.)
+  • If there is suspicion that unauthorized persons have had access to the installation.
+Every inspection should be logged to record all changes.
+ATTENTION
+All activity relating to inspection, cleaning, and maintenance work must only be carried out while 
+the system is switched off (open-circuit condition) and at low irradiation levels.
+===== PAGE 30 =====
+30
+How to inspect the solar films:
+ 1.  Power off the system, secure it from accidental switch on, 
+   and check the system of any residual electricity.
+ 2.  Please check for:
+    • Secure hold of all system components
+    • Safe connection, clean and undamaged  
+     electrical components
+    • No standing waters around the junction box
+    • Visual inspection for delamination, defects,
+      or such kind.
+ 3.  Keep the solar film clean and free from debris. For more info  
+   about  cleaning, please read the respective section. 
+ 4.  In case of snow, ensure that the solar film surface pressure
+   is at or below the design load by removing snow.
+If there is any doubt about the condition of the solar films, the relevant parts should be documented 
+by photos and, together with information on the serial number and wiring, sent to Heliatek at  
+support@heliatek.com. The serial number can be found on the nameplate or imprinted at the end of 
+the solar film, opposite to the junction box. The system or the affected areas must then be secured 
+immediately so that they are only accessible to the maintenance personnel. The further procedure must 
+be clarified with Heliatek.
+5.2  CLEANING  
+The solar films are equipped with a front sheet that allows ordinary dust or dirt to be washed away by 
+normal rainfall, best achieved when the modules are installed at an inclination angle of 25 degrees or more 
+from the horizontal plane.
+If cleaning is performed to maximize system performance and ensure long-term performance, please 
+ensure that the system is powered off, secured from accidental switch on, and check the system of any 
+residual electricity.
+Clean each solar film with care by using deionized water and a lint free cloth. Let the water clean the 
+surface at first, and with the wet cloth clean the area that is still not clean. Do not use excessive pressure, 
+since it might damage the solar film permanently. If there are stains such as bird droppings, you can use 
+isopropanol or ethanol or water to clean the surface. Any kind of surface pollution may result in a non-
+uniform loading, which can lead potentially to the formation of hotspots or reduction of the power output, 
+which may damage the solar film permanently or affect the long-term performance. 
+ATTENTION
+Always power off the  
+system before performing 
+maintenance.
+===== PAGE 31 =====
+31
+ATTENTION
+Start early in the morning or late in the night when solar irradiation is the lowest.
+Partial direct shading during cleaning can cause permanent damage to solar cells due to reverse-
+bias conditions, even in low light conditions, if the system is not powered off.
+Do not step on the solar film while cleaning them, shoes could have sharp or hard particles on the 
+heels and can scratch or penetrate the modules.
+Do not use high-pressure water jets.
+Do not use abrasive cleaners or cleaning solutions containing acids such as hydrochloric acid, 
+D-Limonene, ammonia, or sodium hydroxide.
+Do not use water near the junction box.
+6  REMOVAL AND DISPOSAL
+ 
+Solar films that are not suited for safe operation (e.g. damaged or defective) or no longer meet the goals 
+or targets must be safely removed from the system and shall be disposed in accordance with the local 
+regulations for recycling and disposal.
+6.1  HOW TO REMOVE
+The backside adhesive of HeliaSol ensures a firm and permanent adhesion on the applied surface. Please 
+note that the removal destroys the solar film permanently.
+To safely separate the solar film from the surface without unnecessary risk: 
+  1. Power off the system, secure it from accidental switch on and check the system of any  
+    residual electricity.
+  2. Identify the solar film to be removed and mark it.
+  3. Disconnect all cables from the solar film.
+  4. To remove the backside adhesive from the underground, preferably use a heat gun to  
+    warm up the adhesive layer up to 100 °C.
+  5. Remove the film slowly and completely. Pull the films in a flat angle.
+6. If any adhesive residues are left on the surface, a petroleum ether-based adhesive remover
+can be used (e.g, Tesa-60042). To moisten the residues, apply the remover and wait at 
+least 2 minutes before removing the remaining material with a scraper or similar The use 
+of the remover can be repeated in case residues are remaining on the applied surface. Use 
+===== PAGE 32 =====
+32
+ a towel and isopropanol for the final cleaning. On porous or other rough surfaces (e.g. 
+concrete wall) a pressure  washer instead of the use of solvents can be considered.
+Please note that when a solar film is removed, optical dissimilarities may occur between the surface area 
+that was covered by the solar film and the uncovered surface area around it, since HeliaSol protects the 
+underlying substrate from weather exposure. In the case of coated metal substrates, a new coating may 
+be necessary after complete removal of the films.
+6.2  DISPOSAL
+The solar films do not consist of any components (e.g. toxic materials) that need special attention during 
+the process of disposal. They can be handled like any other electronic waste and must be brought to the 
+local recycling and disposal center or any other facility that oversees recycling and disposal, according to 
+ATTENTION
+Meaning of crossed –out wheeled dustbin: 
+Do not dispose of electrical appliances as unsorted municipal waste, use separate collection 
+facilities. Contact your local government for information regarding the collection systems available. 
+If electrical appliances are disposed of in landfills or dumps, hazardous substances can leak into 
+the groundwater and get into the food chain, damaging your health and well-being. When replacing 
+old appliances with new ones, the retailer is legally obligated to take back your old appliance for 
+disposals at least free of charge.
+===== PAGE 33 =====
+33
+APPENDIX 1:  
+INSTALLATION CHECKLIST FOR HELIASOL
+PLEASE NOTE
+This checklist complements the product’s User Guide but does not replace it:  Always refer to the 
+User Guide for a proper and safe installation of HeliaSol.
+Before Installation
+1.1.
+Receiving and Storing (Ref: §3.2 of the User Guide)
+o Boxes are not damaged
+o Storing in a ventilated warehouse with dry air. Must avoid temperatures more  
+         than 25°C
+o Keep the protective film wrapped around the shipment for protection.
+1.2.
+Project Design (Ref: §4.6 and §4.7 of the User Guide)
+o Max system voltage & electrical limitations according to datasheet
+o Parasitic capacitance for grounded (metal) substrates
+o System design, inverter & other components selection, etc., project plans  
+         created
+o System simulation 
+1.3.
+On-Site Checks (Ref: §4.2 and §4.3 of the User Guide)
+o Substrate checks with flowchart, see Appendix 2 
+o Module inclination >1°
+o Min radius of uni-axially module bending: R >50cm
+o Avoid standing water situations where modules are to be installed
+o Avoid critical shading situation 
+1.4.
+Final Preparation
+o Receive Heliatek installer kit
+o Provide proper connectors (connector type according to datasheet and suffi-
+cient number of connectors for installation)
+o Provide primer (if needed)
+o All installers have received training by Heliatek
+o Receive project plan
+o Appoint the responsible people for the installation day
+o Installation day weather check (temperature, wind speed, precipitation)
+===== PAGE 34 =====
+34
+Installation Process (Ref: §4.4 of the User Manual)
+2.1.
+Substrate and Weather Condition
+o Clean the substrate (free from dirt, moisture, dust, oil, grease, adhesive, moss,  
+         paint flaking, corrosion, or any other particle)
+o Let the substrate dry
+o Weather final check for gluing the module (rain, snow, or strong wind)
+o Substrate temperature should be more than 8°C
+o Marking and determining the positions of the modules
+2.2.
+Following local HSE safety codes
+o insulating gloves
+o safety shoes
+o Helmet
+o Mask (if necessary)
+o Unauthorized persons have no access to the work area
+2.3.
+Installation
+o Following module alignment and position from project plan design documents
+o Primer application (if needed) according to instructions user guide
+o Install modules according to training received and instructions in user guide
+o Never short-circuit HeliaSol modules
+2.4.
+Final Actions
+o Collect waste & recycle
+o Functional test
+After Installation 
+3.1. As Built Documentation
+3.2.
+Installation Signs 
+o Do not step on the modules
+o Electrical safety warnings
+o Zone numbering based on the final design
+3.3. Following System Inspection Methods (Ref: §5.1 of the User Guide)
+3.4. Following Module Cleaning Methods (Ref: §5.2 of the User Guide)
+===== PAGE 35 =====
+35
+APPENDIX 2:  
+FLOWCHART FOR SELECTING ADHESION  
+METHOD BASED ON SUBSTRATE
+Start
+CleaningCleaning
+DryingDrying
+Using Primer
+Module 
+Installation
+Fail
+Fail
+Pass
+Possible
+Any Other SubstrateMetal, Glass, Acrylic Glass
+module installation 
+not possible
+Apply
+Adhesion Test Kit 
+(Appendix 3)
+Concrete,
+Bitumen
+Module 
+Installation
+Substrate
+ Type
+Ask Heliatek
+Support Team
+===== PAGE 36 =====
+36
+APPENDIX 3:  
+HELIASOL ONSITE ADHESION TEST
+ 
+DISCLAIMER
+  • The adhesion of the HeliaSol BSA (backside adhesive) may be affected by a specific  
+   material type (e.g., different types of a PVC or TPO membrane), or the condition (ageing)  
+   of the targeted material.
+  • Although various substrate materials undergo extensive testing in Heliatek, an easy test  
+   will be needed as a quick check of sufficient adhesion of our BSA to the targeted substrate.
+  • This onsite adhesion test does not replace the standard substrate qualification but works  
+   complementary to it.
+  • The test is considered successful if the adhesive tape is fully split to the substrate and   
+   the sample.
+TEST PROCEDURE
+  1) Clean the substrate: 
+   Substrate should be free from dirt, moisture, dust, paint flakes, oil, grease, adhesives, or  
+   other contamination.
+  2) Stick the sample to the substrate:
+ Use primer if needed according to instructions. Remove the backside adhesive protection 
+liner and stick the sample on the substrate.  Press firmly to ensure that the sample is fixed.
+  3) Remove the sample after 72 hours:
+ Remove mechanically the samples after 72 hours from its application. Pull the sample off  
+in perpendicular direction to the substrate either by hand or with tools if necessary.
+  4) Take pictures and inform Heliatek:
+   After removing the sample, take pictures of the substrate and the sample, and forward  
+   them to Heliatek for evaluation together with the following “Installation Site Evaluation  
+   Form”
+Positive Test Result Negative Test Result
+After removing the samples, the adhesive still 
+sticks to the substrate. The foam tape is split.
+After removing the samples, the adhesive does not 
+or only to a minor degree stick to the substrate.
+
+===== PAGE 37 =====
+37
+Samples of Positive Test Results
+Samples of Negative Test Results
+Removing adhesive residues from the test surface
+If any adhesive residues are left on the surface, a commercially available petroleum ether-based adhesive 
+remover can be used. To moisten the residues, apply the remover and wait at least 2 minutes before 
+removing the remaining material with a scraper or similar. The use of the remover can be repeated in case 
+residues remain on the applied surface. Use a towel and isopropanol for the final cleaning. On porous 
+or other rough surfaces (e.g., concrete walls) a pressure washer instead of the use of solvents can be 
+considered.
+Installations Site Evaluation
+Please fill in the “Installation Site Evaluation form“ and send it to the Heliatek support team.
+
+===== PAGE 38 =====
+38
+Installations Site Evaluation
+Roof/Façade
+Material
+Material type
+Product name
+Product number
+Roof/Façade 
+Information
+Location
+Inclination
+Installation date
+Warranty still active?
+Photo of the Roof/
+Façade
+Roof/Façade 
+Condition
+Sufficient drainage?
+Surface dirt?
+Exhaust/ventilation 
+systems?
+Close up photo of the 
+surface
+yes no
+Click here to 
+insert photo
+Click here to 
+insert photo
+www.heliatek.com
+===== PAGE 39 =====
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Tel: +49 (0) 351 213 034 30
+Mail: sayhello@heliatek.com
+HeliaSol 436-2000-CFF User Guide | REV:  05 | December 2025
+www.heliatek.com

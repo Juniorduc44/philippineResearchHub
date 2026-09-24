@@ -1,0 +1,26 @@
+BSP Reference Exchange Rate Bulletin
+Source file: research/inbox/2026-09-21-bsp-rerb-xlsx.bin (xlsx bytes; ingest.sh named .bin from Content-Type)
+URL: https://www.bsp.gov.ph/Statistics/RERB/RERB.xlsx
+Parsed 2026-09-21 from sheet1.xml
+
+Header:
+  BANGKO SENTRAL NG PILIPINAS
+  FINANCIAL MARKETS
+  REFERENCE EXCHANGE RATE BULLETIN
+  21 September 2026
+
+Selected peso equivalents (column G PHIL.PESO EQUIVALENT):
+  UNITED STATES  DOLLAR*  USD  PHP 62.67     USD equiv 1.000000
+  CHINA          YUAN**   CNY  PHP 9.3559    USD equiv 0.149289
+
+Board rates on the same sheet:
+  BSP Buying Rate (T/T):     PHP 62.50
+  BSP Selling Rate (T/T):    PHP 63.00
+  BSP Reference Rate:        PHP 62.75
+  PDS Closing Rate (18-Sep-2026): PHP 62.749
+
+Footnotes on the sheet:
+  Source: LSEG FOREX CLOSING PRICES as of NY Time - 18-Sep-2026
+  * Weighted average rate in the USD/PHP Market in the last trading day
+  ** Asian Time Closing Rate as of 18-Sep-2026
+  Run date/time: 21-Sep-2026 08:34 AM

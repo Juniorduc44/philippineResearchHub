@@ -27,6 +27,7 @@ prompts/           ← per-task prompt shape
 .claude/           ← skill/agent copies (Claude Code)
 archive/           ← original Clief Notes PDFs + extracts
 scripts/           ← ingest and extract helpers
+godseye            ← local 3D globe (tools/gods-eye-view)
 ```
 
 ## Token rule

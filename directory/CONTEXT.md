@@ -1,6 +1,6 @@
 # Directory workspace
 
-Last updated: 2026-09-20 (projects layer added)
+Last updated: 2026-09-24
 
 ## What happens here
 This is the business-ideas catalog for the Philippines. Ideas go in, structured dossiers come out. Research support lives in `/research`. Expanded builds live in `/projects/<slug>/`. This folder only stores the catalog entry.

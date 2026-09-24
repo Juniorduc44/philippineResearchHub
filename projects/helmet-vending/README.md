@@ -45,7 +45,7 @@ Treat every peso and cycle number below as **operator-brief** until a quote, per
 - Fast cycle (notes: ~3–10 minutes) → throughput if the line exists.
 - Repeat use is plausible for delivery riders and daily commuters.
 - Night-shift BPO hours are a gap shops do not cover.
-- Local machine options (notes: Go Clean and similar) vs only imports.
+- Local machine options (Go Clean press ₱44k–₱55k) vs China listings (Haloo single ~US$2,000 / stacked dual ~US$2,300–$2,600). See `philippines/machine-candidates.md`. Not invoices.
 - Rain/heat are both a risk and a demand driver.
 
 ### Against

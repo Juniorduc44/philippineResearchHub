@@ -1,0 +1,187 @@
+
+===== PAGE 1 =====
+TECHNICAL DATASHEET: HeliaSol®  436-2000-CFF
+HeliaSol is an innovative organic solar film with unique features, that enables solar power generation, where conventional photovoltaic solutions 
+cannot be used. The solar film is ultra-light, flexible, ultra-thin and comes with an integrated backside adhesive to be easily applied to various 
+surface materials. HeliaSol has the lowest carbon footprint of all solar technologies with less than 10 g CO2e/kWh, making it a truly green product.
+FLEXIBLE
+Minimum bending radius of 
+50 cm. Ideal for all curved or 
+non-straight surfaces
+ULTRA-THIN
+Thickness of less than 2 mm. 
+Seamless integration into 
+application surface.
+ULTRA-LIGHT
+Weight of less than 2 kg/m². 
+Perfect for lightweight buildings 
+with low rooftop load-bearing 
+capacity.
+GENERAL DATA
+Configuration Junction box located on front side of module, integrated backside adhesive on rear side
+Cell Type Organic triple-junction solar cells in serial connection
+Back Sheet Opaque black film with UV- and weather protection with self-adhesive backside tape, delivered with protection liner 
+Front Sheet Polymeric matt film with optimized UV- and weather protection
+Fixation Self-adhesive, integrated acrylic foam tape sticks durably on glass, metal/steel, concrete, or other materials on request
+Packaging 12 rolled modules per box, 8 boxes per pallet, 96 modules per pallet
+Heliatek GmbH | Treidlerstr. 3 | 01139 Dresden | Germany | Tel: +49 (0) 351 213 034 30 | Mail: sayhello@heliatek.com
+EN
+TRULY GREEN
+Carbon footprint of less than 
+10 g CO2e/kWh. No toxic 
+heavy metals like lead or 
+cadmium, no rare earths, no 
+scarce raw materials.
+TEMPERATURE 
+INDEPENDENT
+No performance loss at high 
+temperatures. Temperature 
+coefficient of 0.00 %/°C to 
+65 °C.
+EASY-TO-INSTALL
+Integrated backside adhesive. 
+Simply gluing on various 
+surfaces. No mounting 
+structure. No rooftop 
+penetration. 
+===== PAGE 2 =====
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+1,2
+1,4
+1,6
+1,8
+2,0
+0 10 20 30 40 50 60
+55 W
+50 W
+/uni0057/uni0045/uni0045/uni0045
+/uni0043/uni006F/uni006D/uni0070/uni006C/uni0069/uni0061/uni006E/uni0074
+HeliaSol
+436-2000-CFF-50
+HeliaSol
+436-2000-CFF-55
+at STC at 200 W/m2 at STC at 200 W/m2
+Nominal Power 50 W 10 W 55 W 11 W
+Sorting of PMPP +5/-0 W - +5/-0 W -
+Aperture Efficiency 7.2 % 7.2 % 8.0 % 8.0 %
+Voltage at PMPP (VMPP) 43.1 V 42.2 V 43.4  V 42.2 V
+Current at PMPP (IMPP) 1.26 A 0.24 A 1.32 A 0.26 A
+Open Circuit Voltage (VOC) 56.1 V 52.7 V 56.1  V 52.7  V
+Short Circuit Current (ISC) 1.60 A 0.32 A 1.63  A 0.33 A
+Overcurrent Protection Rating 2.7 A 2.7 A 2.7 A 2.7 A
+STC: Irradiance 1000 W/m2, Module Temperature 25 °C, AM1.5 spectrum.  Measurement tolerance of PMPP, ISC and VOC does not exceed ±10%.
+Nominal power is the minimum amount of power at STC and it is not equal to Vmpp*Impp in the electrical data table
+Top View
+Side View
+/uni0031/uni0038/uni0038/uni0035/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0030/uni0030/uni0030/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0020/uni006D/uni006D
+/uni0031/uni0038/uni002E/uni0035/uni0020/uni006D/uni006D
+/uni0050/uni0072/uni006F/uni0064/uni0075/uni0063/uni0074/uni0020/uni004C/uni0061/uni0062/uni0065/uni006C
+HeliaSol 436 - 2000
+Electrical data measured at standard test conditions (STC: 1000 W/m2, AM1.5, 25°C)
+Prototype for testing purposes exoluslvely, no commerical use
+PMAX  = XX W ± 10%
+VOC   = XX.X V ± 10%
+ISC      = X.XX A ± 10%
+Measurement tolerance of ISC, VOC and PMAX does not exceed ±10%        Scan for S/N
+Maximum system voltage: below 50 V  Minimum bending radius: 20cm
+Maximum reverse ourrent: 2x ISC     S/N 204352379000711
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Made in Germany
+/uni0031/uni0038/uni0038/uni0035/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0030/uni0030/uni0030/uni002E/uni0030/uni0020/uni006D/uni006D
+/uni0032/uni0020/uni006D/uni006D
+/uni0031/uni0038/uni002E/uni0035/uni0020/uni006D/uni006D
+/uni0050/uni0072/uni006F/uni0064/uni0075/uni0063/uni0074/uni0020/uni004C/uni0061/uni0062/uni0065/uni006C
+HeliaSol 436 - 2000
+Electrical data measured at standard test conditions (STC: 1000 W/m2, AM1.5, 25°C)
+Prototype for testing purposes exoluslvely, no commerical use
+PMAX  = XX W ± 10%
+VOC   = XX.X V ± 10%
+ISC      = X.XX A ± 10%
+Measurement tolerance of ISC, VOC and PMAX does not exceed ±10%        Scan for S/N
+Maximum system voltage: below 50 V  Minimum bending radius: 20cm
+Maximum reverse ourrent: 2x ISC     S/N 204352379000711
+Heliatek GmbH
+Treidlerstraße 3
+01139 Dresden
+Germany
+Made in Germany
+TECHNICAL DRAWING
+ELECTRICAL DATA AT STC
+I-V CURVES
+MECHANICAL SPECIFICATIONS
+Module Width 436 mm
+Module Length 2000 mm
+Module Thickness 2 mm (solar film)
+18.5 mm (solar film plus junction box)
+Min. Bending Radius 50 cm
+(unidirectional curved surfaces only) 
+Module Weight 1.6 kg
+Load Rating 
+Design load:    ± 1600 Pa
+Test load:        ± 2400 Pa
+Safety factor:  1.5
+SYSTEM INTEGRATION
+Max. System Voltage 1000 V
+Bypass Diodes 1 per module
+Electrical Connection LEADER connector, PV-BN101B connectors
+46 cm cable length
+Class II (IEC 61140)  
+Junction Box IP 67
+Inverter
+Recommendation
+Compatibility with most commercially available 
+inverters
+INSTALLATION
+Installation Conditions Dry and clean conditions, temperature above 8 °C
+Max. Altitude 2000 m above see level
+Mounting Surface Flat or bent in one axis (radius ≥ 50 cm)
+Slope min. 1° and max. 90°
+THERMAL CHARACTERISTICS
+Operating
+Temperatures
+-40 … +70 °C
+(tested up to 85 °C according to IEC norms)
+Temperature 
+Coefficient PMPP
++0.00 %/°C, from 25°C up to 65 °C
+-0.11 %/°C, from 65°C to 85 °C
+Temperature 
+Coefficient ISC
++0.08 %/°C
+Temperature 
+Coefficient VOC
+-0.25 %/°C
+Heliatek GmbH | Treidlerstr. 3 | 01139 Dresden | Germany | Tel: +49 (0) 351 213 034 30 | Mail: sayhello@heliatek.com
+DISCLAIMER
+The information included in this datasheet is subject to change without notice and is 
+provided for informational purposes only. Please contact Heliatek about the availability of 
+modules in the shown power classes.
+HeliaSol 436-2000-CFF Technical Datasheet | REV: 04 | April 2025
+1000 W/m²
+700 W/m²
+400 W/m²
+Voltage (V)
+Current (A)
+200 W/m²
+100 W/m²
+STANDARDS AND NORMS
+PV Standards IEC 61730:2016 & IEC 61215:2021
+Fire Classification
+UL 61730-02 (UL 790) class C a
+EN 13501-01 class E a,b
+EN 13501-05 Broof(t1) a,b
+Compliances CE conform; WEEE compliant
+Warranty 5 years product warranty, 20 years performance warranty
+a Tested on metal substrates with melting point equal to or higher than 500 °C.
+b Fire tests were performed at the Fire laboratory of MPA Dresden GmbH.

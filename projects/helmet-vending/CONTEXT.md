@@ -1,6 +1,6 @@
 # Project: helmet-vending
 
-Last updated: 2026-09-20
+Last updated: 2026-09-21
 
 Catalog entry: `directory/ideas/helmet-vending/idea.md`  
 Human handoff: `README.md` (read that first if you are taking the idea up).

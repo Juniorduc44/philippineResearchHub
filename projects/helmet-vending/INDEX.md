@@ -21,3 +21,5 @@
 | `philippines/location-cebu-it-park.md` | Site shortlist |
 | `philippines/unit-economics.md` | PHP math with unknowns |
 | `philippines/competition.md` | Named players + gaps |
+| `philippines/machine-candidates.md` | Haloo vs PH vs other OEM; CNY/PHP/USD listings |
+| `research/briefs/2026-09-21-helmet-machine-candidates-report.md` | Full sourced report (FX, specs, access vs ship) |

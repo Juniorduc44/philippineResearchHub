@@ -67,7 +67,8 @@ Motorcycle and delivery riders in the Cebu IT Park / JY Square corridor pay per 
 
 ## Competition
 
-- Named PH players (operator-brief only): Go Clean (local), FresHelmet and similar imports; Cebu shops that detail helmet interiors by hand
+- Named PH players: Go Clean (local, press ₱44k–₱55k), Quick Fresh (press ₱265k), FresHelmet Taiwan dual A026 (no price on disk); Cebu shops that detail helmet interiors by hand
+- China OEM comparison (listings, not invoices): Haloo B01 single vs B02 stacked dual — `research/briefs/2026-09-21-helmet-machine-candidates.md`
 - Gap: speed + unattended hours vs shop detailing — **unverified at this corridor**
 
 ## Risks
@@ -85,6 +86,8 @@ Motorcycle and delivery riders in the Cebu IT Park / JY Square corridor pay per 
 - `research/library/2026-09-20-lean-startup.md`
 - `research/library/2026-09-20-e-myth-revisited.md`
 - `research/library/2026-09-20-profit-first.md`
+- `research/briefs/2026-09-21-helmet-machine-candidates.md`
+- `research/briefs/2026-09-21-helmet-machine-candidates-report.md`
 
 ## Open questions
 

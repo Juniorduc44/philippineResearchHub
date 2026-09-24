@@ -19,3 +19,4 @@
 | DTI / SEC / CDA | Business name, corporation, cooperative registration paths. |
 | BIR | National tax registration. |
 | PSA / BSP / NEDA | Statistics, monetary, planning sources. |
+| God's Eye View / `godseye` | Local 3D globe (`tools/gods-eye-view`). Live public layers. Not a citeable primary source until snapshotted. |

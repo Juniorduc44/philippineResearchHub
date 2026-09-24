@@ -15,4 +15,7 @@
 | 2026-09-20 | Do not re-download EO 113 or RA 11595; operator PDFs are canonical. RA 11647 from Lawphil because Gazette 403. | Local-first. |
 | 2026-09-20 | `tools/browser-use` is a gitignored clone; `tools/fetch-blocked.py` is the hub fetch when curl 403s. | Operator asked for Browser Use locally. Cloudflare still beat Chromium on SEC. |
 | 2026-09-20 | Public gallery lives in `docs/` for GitHub Pages (`/docs` on `main`). Not `pages/` — GH Pages cannot use that folder. | Operator asked for a live GitHub site. |
+| 2026-09-21 | `godseye` at hub root starts God's Eye View. User-facing URL in this workspace is `http://localhost:8080/proxy/4173/` (code-server). | Direct `:4173` is container-only; Vite `base` must match the proxy path. |
+| 2026-09-21 | Gallery ideas use 4–8 stills and `docs/GALLERY-STANDARD.md`. | Operator asked for a reusable slideshow template after HeliaSol. |
+| 2026-09-24 | File the Traveling Techtician ladder as fourteen catalog ideas + GitHub Pages; generated stills are labeled. Do not cite convo statistics until ingested. | Operator added `docs/stuff/convo_00.md` and asked for a live portfolio of things that can be done. |
 | 2026-09-20 | Helmet vending is the first active build; community-cold-storage stays an example shell. | Operator brief + Cebu corridor; example must still have a project folder. |

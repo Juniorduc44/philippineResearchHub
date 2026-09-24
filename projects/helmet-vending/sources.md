@@ -16,4 +16,8 @@ Read this turn (local files):
 | `research/library/2026-09-20-dti-bnrs.md` | Sole-prop business name |
 | `research/briefs/2026-09-20-ph-business-registration-map.md` | License table |
 
-Not on disk: machine invoices, Cebu City permit checklist, FDA notices, Go Clean corporate filings, IT Park motorcycle counts.
+Machine-candidate ingest (2026-09-21): full report `research/briefs/2026-09-21-helmet-machine-candidates-report.md`; short brief `research/briefs/2026-09-21-helmet-machine-candidates.md`; plus Haloo factory/listing cards, Go Clean/Tribune/PEP, GMA Quick Fresh, FresHelmet, Ouyuan, BSP RERB xlsx.
+
+God's Eye Cebu probe (2026-09-21): `research/briefs/2026-09-21-gods-eye-cebu-probe.md` (IT Park geocode, weather, flights). Not a bike count.
+
+Not on disk: machine invoices, CIF Cebu freight, Cebu City permit checklist, FDA notices, Go Clean corporate filings, IT Park motorcycle counts.
